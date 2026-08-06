@@ -5,6 +5,11 @@ file = "config/xaerominimap.txt"
 hash = "769b2e700b8fe227bda644c65af1428760d47d8f252e2efb9b8bb74f4089a383"
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "37aa10fafbdc4c961e1e7e4131a5385c8598231d86f3109522c7c82fc800b17b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true

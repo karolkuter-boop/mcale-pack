@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "769b2e700b8fe227bda644c65af1428760d47d8f252e2efb9b8bb74f4089a383"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
@@ -12,9 +16,14 @@ metafile = true
 
 [[files]]
 file = "mods/mcale-0.1.0.jar"
-hash = "b5df2c2a924aeff3d8217903f2bae587e0cc3be67d9d3419554923b0bc0491f5"
+hash = "92d45fd3f9d749ad3b7b2c54730cc892faa878837b31608c70f4b5466c7fbd0d"
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "706f9f67c0d62462e81ce61f75ad0b236500052317562d28c0aa45dd157a5d44"
 metafile = true

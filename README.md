@@ -34,9 +34,22 @@ bash scripts/install-prism.sh
 
 ## Hosting
 
-Docelowo raw.githubusercontent + `PreLaunchCommand` z `packwiz-installer-bootstrap`
-w instancji Prisma — świadomie nie GitHub Pages (buildy Jekyll bywały wolne i zawodne).
+Pack jest **publiczny** i serwowany przez raw.githubusercontent — świadomie nie GitHub Pages
+(buildy Jekyll bywały wolne i zawodne). Publiczność jest wymogiem technicznym: prywatne repo
+zmuszałoby do wpisania tokenu w komendę uruchomienia instancji, co psuje instalację na każdej
+innej maszynie.
 
-**Do ustalenia przed wypchnięciem:** konto/organizacja GitHub i czy repo ma być publiczne.
-Prywatne wymaga tokenu w komendzie uruchomienia instancji, co psuje instalację u kogokolwiek innego.
-Do tego czasu pack działa lokalnie — `install-prism.sh` realizuje go bez hostingu.
+```
+https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/main/pack.toml
+```
+
+Instancja PrismLauncher `mcale` ma to w `PreLaunchCommand`, więc synchronizuje się sama przy
+każdym starcie gry.
+
+> **Repo moda (`karolkuter-boop/mcale`) jest prywatne — ten pack jest publiczny.**
+> Kod źródłowy nie jest ujawniony, ale skompilowany `mcale-<wersja>.jar` jest tu publicznie
+> pobieralny. Tak działa każdy modpack; jar pozostaje objęty licencją ARR z repo moda.
+
+**Kolejność ma znaczenie:** pack musi być wypchnięty **zanim** odpalisz grę. Installer przy starcie
+przywraca stan zgodny ze zdalnym repo, więc niewypchnięty świeży jar zostałby po cichu nadpisany
+poprzednim. `install-prism.sh` robi ten push automatycznie.

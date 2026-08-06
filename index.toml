@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcale-0.1.0.jar"
-hash = "154ee3d0803bb3612d0b170de193c00aa617a37cdce4898ce0ff804b2786ea35"
+hash = "fcfd7e9e68cf22db2650cc878f34ea93eddece2d09099a64959632f43eaa49d1"
 
 [[files]]
 file = "mods/sodium.pw.toml"

@@ -1,0 +1,3 @@
+# Packwiz liczy hashe z bajtow plikow. Konwersja koncow linii przez Git na Windowsie
+# zmienia te bajty i psuje index -- stad wylaczenie jej dla calego repo.
+* -text

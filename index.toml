@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
+metafile = true
+
+[[files]]
+file = "mods/mcale-0.1.0.jar"
+hash = "b5df2c2a924aeff3d8217903f2bae587e0cc3be67d9d3419554923b0bc0491f5"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true

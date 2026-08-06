@@ -20,8 +20,8 @@ hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
 metafile = true
 
 [[files]]
-file = "mods/mcale-0.1.0.jar"
-hash = "fcfd7e9e68cf22db2650cc878f34ea93eddece2d09099a64959632f43eaa49d1"
+file = "mods/mcale-0.2.0.jar"
+hash = "e61a6b46454f07e35d6234d5c77c720e4720a4b3ff3fd03f983a6e2ca761ae3e"
 
 [[files]]
 file = "mods/sodium.pw.toml"

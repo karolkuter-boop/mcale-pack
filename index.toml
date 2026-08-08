@@ -5,6 +5,11 @@ file = "config/xaerominimap.txt"
 hash = "769b2e700b8fe227bda644c65af1428760d47d8f252e2efb9b8bb74f4089a383"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "37aa10fafbdc4c961e1e7e4131a5385c8598231d86f3109522c7c82fc800b17b"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/flashback.pw.toml"
 hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "ba88d00daf98400ca64164cdcf51b4b0e39626139e35ff7870aae837daf39a87"
 metafile = true
 
 [[files]]

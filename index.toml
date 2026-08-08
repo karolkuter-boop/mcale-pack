@@ -24,6 +24,11 @@ file = "mods/mcale-0.5.1.jar"
 hash = "87be7da251b11fec786390046b53ff1f235e7ebea7f3947d0607988d1ea07687"
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "58029f1f8d3ff8baef41e273399dc84a98c9bf447abaf607b2874038d4423055"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true

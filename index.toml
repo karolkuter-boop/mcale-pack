@@ -30,8 +30,8 @@ hash = "ba88d00daf98400ca64164cdcf51b4b0e39626139e35ff7870aae837daf39a87"
 metafile = true
 
 [[files]]
-file = "mods/mcale-0.5.3.jar"
-hash = "ba1bff9a0a2c24d5f44656f6619c22f342bbc6db4daf42e515a6c75b23a24abc"
+file = "mods/mcale-0.6.0.jar"
+hash = "d8c0cac410bc26d6b929585f8d124b31b030c741fce76511625dabd72d9d2244"
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"

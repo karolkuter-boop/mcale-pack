@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "db9644887bf2ecc0f0c3cb7838a91cf9f4e3d3688e5d186673c480ac2a2dfc62"
-
-[[files]]
-file = "config/aeronautics-server.toml"
-hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
-
-[[files]]
-file = "config/bbs/settings/bbs.json"
-hash = "f59148c74a3372d3f53ec3b316772d002134241de62512fe3c69986ad9b43efb"
-
-[[files]]
-file = "config/bbs/settings/keybinds.json"
-hash = "56f1d15f6d55202bbd96d48fb01901bf25096128a4f5cb4cf2c6690d09aee004"
-
-[[files]]
-file = "config/com.yuushya/client_config.json"
-hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
-
-[[files]]
-file = "config/connector.json"
-hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 
@@ -37,120 +13,12 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
-file = "config/drippyloadingscreen/options.txt"
-hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "5eb558a283da431aa68ccf680053b9d394dbb4945cd3faf4475cedf22723b209"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "b16a1fbade8ab623f0a50a7d4657f8390ea4518bcc202f9fc011d6e5faf14db8"
-
-[[files]]
-file = "config/fancymenu/customization/shady_contract_layout.txt"
-hash = "11fb1addba9590f1d9d747972d886b91f626181fba55b1f24bf6dafc3037f60d"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cherry_blossom.json"
-hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cozy_campfire.json"
-hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark_high_contrast.json"
-hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light_high_contrast.json"
-hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/pumpkin_soup.json"
-hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-
-[[files]]
-file = "config/fancymenu/ui_themes/purple_void.json"
-hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-
-[[files]]
-file = "config/fancymenu/ui_themes/spooky_season.json"
-hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
-
-[[files]]
-file = "config/fftv_director_actions.json"
-hash = "187a975bfe9245110f264eeb9c5a393ea52b2964b468cb1aacfba867ae4e6291"
-
-[[files]]
-file = "config/flywheel-client.toml"
-hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
-
-[[files]]
-file = "config/fml.toml"
-hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
-
-[[files]]
-file = "config/konkrete/locals/de_de.local"
-hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
-
-[[files]]
-file = "config/konkrete/locals/en_us.local"
-hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
-
-[[files]]
-file = "config/konkrete/locals/pl_pl.local"
-hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
-
-[[files]]
-file = "config/konkrete/locals/pt_br.local"
-hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
-
-[[files]]
 file = "config/neofftv-client.toml"
 hash = "c8076dda8e59e26d9a902e138e825027c0e8a97b533d609973dc2699fc51607b"
 
 [[files]]
 file = "config/neofftv-common.toml"
 hash = "ebe907c3fe150bc6b589801ec6cbcd9b5601e5ebcc9477756cfcaf13ed58ce34"
-
-[[files]]
-file = "config/neofftv_magic_vision.json"
-hash = "a09be08184fac3497fc98423cf33d648574bb68fa692b47dd67b2320e21b44a4"
-
-[[files]]
-file = "config/neofftv_subtitles.json"
-hash = "9962e9ba3ebc150471e580e6d8767f1557ab0ea68607cc6d0af5e220d807bf32"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -163,18 +31,6 @@ hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
 [[files]]
 file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
-
-[[files]]
-file = "config/offroad-server.toml"
-hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
-
-[[files]]
-file = "config/ok_zoomer/config.json5"
-hash = "32b13b2ce8cab76c065b5da73e392a0ab4117987e1e1af95899421af25c15d0d"
-
-[[files]]
-file = "config/ponder-client.toml"
-hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -197,95 +53,12 @@ file = "config/simulatedcoasters-common.toml"
 hash = "eb79717404d7274a5bf0c02d1a12c49a68df6f1802180bea557bd44b51a16951"
 
 [[files]]
-file = "config/sodium-mixins.properties"
-hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
-
-[[files]]
-file = "config/ssrd-common.toml"
-hash = "f02c4f19736ba21f48c0100128ad3208d2cec4e2fae2fa52b3a3b8639cc69c3c"
-
-[[files]]
-file = "config/worldedit/worldedit.properties"
-hash = "d43ae5a5d1b1295b965d0d590e783d2d4d99a62fc61fa4dfe2e222d662d52979"
-
-[[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaerohud.txt"
-hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
-
-[[files]]
 file = "icon.png"
 hash = "931039132a4278f56deb79b0071e363faeb9b302d427fb8a7d2c964de1d0302c"
 
 [[files]]
-file = "mods/aeronautics_flashback-1.0.2.jar"
-hash = "601954eb297b9c9d60039e79ff742d862c4d644ac793b55f66e7abb069f925b8"
-
-[[files]]
 file = "mods/architectury-13-0-11-neoforge.pw.toml"
 hash = "ffb3d5b6ce522b2fcc0e94072f8960cd19c376bf6a66c38410352ed1686ec0e0"
-metafile = true
-
-[[files]]
-file = "mods/bbs-cml-edition-2-0-beta-1-1-21-1.pw.toml"
-hash = "680265d20e90503107d3015b659d4b7b69c427f816301694971044f265e72bb0"
-metafile = true
-
-[[files]]
-file = "mods/bbs-fbx-addon-1-0-2-1-21-1.pw.toml"
-hash = "cb2444f11b939bd307e21a1e0c8b0b10833ca00a886c7f36e4fcfb7c54a38c05"
-metafile = true
-
-[[files]]
-file = "mods/connector-2-0-0-beta-16-1-21-1-full.pw.toml"
-hash = "ebf9495cd0a006fd02f9d1f56f3df4d14fa7023a6dc6dacbcef430cdb7b1d45f"
 metafile = true
 
 [[files]]
@@ -294,76 +67,8 @@ hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-bundled-1-21-1-1-3-0.pw.toml"
-hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
-metafile = true
-
-[[files]]
-file = "mods/create_flashback-1.0.2.jar"
-hash = "40d7df393352d884af3b53904c5451061c8a5d13525a28d50cb49cbb02c4dedc"
-
-[[files]]
-file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
-hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
-metafile = true
-
-[[files]]
-file = "mods/drippyloadingscreen-neoforge-3-1-5-mc-1-21-1.pw.toml"
-hash = "4c42b6700739e7e888a51bb001a92ceda8327cdadee40b8d4c742e40dd223675"
-metafile = true
-
-[[files]]
-file = "mods/essential-1-4-1-1-neoforge-1-21-1.pw.toml"
-hash = "079d7ae304d8a1151a4101abda234ed78d5474429e1955e26e5a0ae7c33c6f83"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu-neoforge-3-9-9-mc-1-21-1.pw.toml"
-hash = "9bec597aa4d5d269d44ec779771cbedf0eba549186a4f2dce5f0ab4850d0bca1"
-metafile = true
-
-[[files]]
-file = "mods/fix_flashback-1.0.2.jar"
-hash = "b3829f04fcba6fff8acb71eb41abb710ebc7b196a84918c2c772bc64966ee406"
-
-[[files]]
-file = "mods/flashback-0-39-7-for-mc1-21-1.pw.toml"
-hash = "1c6ad71fa764b50694a5789c398aae2267cdf78d601249e5f7fe36567c88971e"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api-0-116-15-2-3-1-1-21-1.pw.toml"
-hash = "a454ed83d887eb201a9a207a274a8591edaeb766a49321e8dd6fdc38320cbfb0"
-metafile = true
-
-[[files]]
-file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
-hash = "f310fa1b7ced4df1468e6bf27a33195f235f37d6ab5ba8221bb8fceb17f3b242"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
-hash = "e97e974617830ed7d27dbad22e7621867b0d7a1a978adc162d9e9470715a89ed"
-metafile = true
-
-[[files]]
-file = "mods/melody-neoforge-1-0-10-mc-1-21.pw.toml"
-hash = "1a3f1764ac605cd01d08600616be374fe78df01154ff9ebc2f1d31e8be5caa71"
-metafile = true
-
-[[files]]
 file = "mods/neofftv-1.42.48.jar"
 hash = "b9988d9060b85f8fb6e99b8c18a6ad38c79a1aa030048294beccbd5cd4543668"
-
-[[files]]
-file = "mods/ok-zoomer-neo-10-0-0-beta-13.pw.toml"
-hash = "02da51efd14bf4526af2263490f46606381e2081f1893f4ddf307a9c5c7c1983"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options-neoforge-2-2-3-mc1-21-1.pw.toml"
-hash = "f6a390346875139101102bed972ea2a6015bac4cb55a568353e79a7c8e7a2278"
-metafile = true
 
 [[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
@@ -376,21 +81,6 @@ hash = "65cbff1fa0891dce6560b36752994a1e8bf3d0e9f41a0195db33a808ff70d2ad"
 metafile = true
 
 [[files]]
-file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
-hash = "c74f5fd022c733cc29183536fdf2c5a79b1e5bbd1434c4b0a544a1b079e816e3"
-metafile = true
-
-[[files]]
-file = "mods/spiffyhud-neoforge-3-1-2-mc-1-21-1.pw.toml"
-hash = "3cc27c12288ef0052e51310f45ac0dfeff051f37e4cadb067e9734582ced9517"
-metafile = true
-
-[[files]]
-file = "mods/ssrd-1-8-5-1-21-1.pw.toml"
-hash = "76ea3fb3216f5cf2f446ab913dd358b4d8650de6d384938b1f8e960f2f28f468"
-metafile = true
-
-[[files]]
 file = "mods/uilib-1-0-1-1-21-1-neoforge.pw.toml"
 hash = "1da44fa3e6295c2e22ff17b7d555547a10c2d695345fa4cdf54134ef0c0fa4c5"
 metafile = true
@@ -398,21 +88,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit-mod-7-3-8.pw.toml"
 hash = "8cd929b504707d89535c20fa99db3d2cf6e23e29377029d5ba5cf82228f8e95a"
-metafile = true
-
-[[files]]
-file = "mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml"
-hash = "8799ecfb903aaddd95238b53a1a7f189b7c9947d3c19388e467c680caa2ce576"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-1-21-0-neoforge-2-3-0.pw.toml"
-hash = "432a67270646e68bffbe209a1e850a3258488a5e89df1d660c38abebbd591e92"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-modelling-1-21-1-2-4-1.pw.toml"
-hash = "5833127a95cf9d491ad899e9290a729110cb68cfde6017077c51c3c2d9868927"
 metafile = true
 
 [[files]]

@@ -20,7 +20,7 @@ mods/*
 config/*
 !config/aeronautics-server.toml
 !config/com.yuushya/
-!config/com.yuushya/client_config.json
+!config/com.yuushya/**
 !config/create-client.toml
 !config/create-common.toml
 !config/create-server.toml

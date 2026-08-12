@@ -9,18 +9,14 @@ mods/*
 !mods/architectury-13-0-11-neoforge.pw.toml
 !mods/create-1-21-1-6-0-10.pw.toml
 !mods/create-aeronautics-bundled-1-21-1-1-3-0.pw.toml
-!mods/neofftv-1.42.48.jar
+!mods/neofftv-1.42.49-rc1.jar
 !mods/sable-neoforge-1-21-1-2-0-3.pw.toml
 !mods/simulatedcoasters-0-1-4.pw.toml
 !mods/uilib-1-0-1-1-21-1-neoforge.pw.toml
 !mods/worldedit-mod-7-3-8.pw.toml
-!mods/yuushya-1-21-0-neoforge-2-3-0.pw.toml
-!mods/yuushya-modelling-1-21-1-2-4-1.pw.toml
 
 config/*
 !config/aeronautics-server.toml
-!config/com.yuushya/
-!config/com.yuushya/**
 !config/create-client.toml
 !config/create-common.toml
 !config/create-server.toml

@@ -2,10 +2,12 @@
 
 Minimalny klient do polaczenia z `mcale.csrv.gg`.
 
-Zawiera tylko dziesiec modow wymaganych przez serwer: NeoFFTV, Create, Create
-Aeronautics Bundled, Yuushya, Yuushya Modelling, Sable, Simulated Coasters,
-WorldEdit, UILib i Architectury.
-Nie zawiera BBS, Flashbacka, Distant Horizons, Essentiala, FancyMenu ani narzedzi nagraniowych.
+Lokalny kandydat: NeoFFTV `1.42.49-rc1`. Kanal publiczny zostanie
+zaktualizowany dopiero po ustawieniu lokalizacji parku i finalnym smoke tescie.
+
+Zawiera tylko osiem modow wymaganych przez serwer: NeoFFTV, Create, Create
+Aeronautics Bundled, Sable, Simulated Coasters, WorldEdit, UILib i Architectury.
+Nie zawiera modow dekoracyjnych ani klientowych narzedzi nagraniowych.
 
 Packwiz URL:
 

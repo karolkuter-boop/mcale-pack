@@ -5,10 +5,6 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
-file = "config/com.yuushya/client_config.json"
-hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 
@@ -84,8 +80,8 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.48.jar"
-hash = "b9988d9060b85f8fb6e99b8c18a6ad38c79a1aa030048294beccbd5cd4543668"
+file = "mods/neofftv-1.42.49-rc1.jar"
+hash = "bf33fc2b54ec1db00d0f1c322f01ed2ac066bcbccc8708ff4ebfb8be694f5fc2"
 
 [[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
@@ -105,16 +101,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit-mod-7-3-8.pw.toml"
 hash = "8cd929b504707d89535c20fa99db3d2cf6e23e29377029d5ba5cf82228f8e95a"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-1-21-0-neoforge-2-3-0.pw.toml"
-hash = "432a67270646e68bffbe209a1e850a3258488a5e89df1d660c38abebbd591e92"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-modelling-1-21-1-2-4-1.pw.toml"
-hash = "5833127a95cf9d491ad899e9290a729110cb68cfde6017077c51c3c2d9868927"
 metafile = true
 
 [[files]]

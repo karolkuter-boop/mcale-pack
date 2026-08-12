@@ -61,6 +61,10 @@ file = "config/simulatedcoasters-common.toml"
 hash = "eb79717404d7274a5bf0c02d1a12c49a68df6f1802180bea557bd44b51a16951"
 
 [[files]]
+file = "config/xaerohud.txt"
+hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+
+[[files]]
 file = "icon.png"
 hash = "931039132a4278f56deb79b0071e363faeb9b302d427fb8a7d2c964de1d0302c"
 
@@ -104,6 +108,11 @@ hash = "8cd929b504707d89535c20fa99db3d2cf6e23e29377029d5ba5cf82228f8e95a"
 metafile = true
 
 [[files]]
+file = "mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml"
+hash = "8799ecfb903aaddd95238b53a1a7f189b7c9947d3c19388e467c680caa2ce576"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "34c3c1dfb601b59623585ae7bfc74305c46e06bd7422dacf4fa6a272743db188"
 
@@ -118,3 +127,7 @@ hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 [[files]]
 file = "servers.dat"
 hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"
+hash = "21c0b7c5e52e4539405eda82ce1e987e156eb2dd2ad9f3d800bbbb1a19d5a04b"

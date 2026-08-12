@@ -1,0 +1,27 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Punkt bazowy parku:PB:0:13:-220:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wejscie do parku:WE:0:13:-220:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Plac glowny:PG:0:13:-150:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Villager Express:VE:-140:13:-150:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:SkyLoop:SL:140:13:-150:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:SzymeqCoaster:SC:-170:13:140:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lava Serpent:LS:170:13:140:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zadra Tribute:ZT:-210:13:515:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hyperion Tribute:HT:210:13:515:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Scena finalowa:SF:0:13:600:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Park konkurencji:PK:430:13:515:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Przystanek autokaru:PA:-64:13:-252:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Generator blackoutu:GB:96:7:-116:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Backstage:BS:260:13:-284:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kasa biletowa:KB:-10:13:-186:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sklep jedzenie:SJ:-22:13:-146:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sklep mud matcha:SM:0:13:-142:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sklep merch:ME:22:13:-146:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wielki szmaragd:WS:0:13:-94:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kamera intro:KI:22:21:-248:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kamera zakup:KZ:10:17:-148:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kamera szeroka:KS:0:83:80:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kamera final:KF:34:27:600:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kamera miniatura:KM:28:22:-108:11:false:0:gui.xaero_default:false:0:0:false

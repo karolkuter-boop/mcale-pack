@@ -316,3 +316,7 @@ hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 [[files]]
 file = "servers.dat"
 hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"
+hash = "21c0b7c5e52e4539405eda82ce1e987e156eb2dd2ad9f3d800bbbb1a19d5a04b"

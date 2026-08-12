@@ -10,5 +10,5 @@ Nie zawiera BBS, Flashbacka, Distant Horizons, Essentiala, FancyMenu ani narzedz
 Packwiz URL:
 
 ```text
-https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/lite/pack.toml
+https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/refs/heads/lite/pack.toml
 ```

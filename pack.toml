@@ -1,12 +1,12 @@
 name = "NeoFFTV Rollercoaster Tycoon Lite"
 author = "FFTV"
-version = "1.42.49-rc4.1-lite.1"
+version = "1.42.49-rc5-lite"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8af0a3cfda60b7000eca3c58f791975fc65a3580e7d127e4b59576b0c9e74ea"
+hash = "19806e3c8d533b74f93c7de759ba208f2700df42fece3d643aa0608d27237852"
 
 [versions]
 minecraft = "1.21.1"

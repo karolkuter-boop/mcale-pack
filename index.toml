@@ -248,8 +248,8 @@ hash = "e97e974617830ed7d27dbad22e7621867b0d7a1a978adc162d9e9470715a89ed"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc4.jar"
-hash = "273fd15480a3bb32c1ca684c850df4af6061042efb00ae1ab4791f5d47c4c98d"
+file = "mods/neofftv-1.42.49-rc5.jar"
+hash = "e3fea95ad7641cae1bca813a9c097f8e1fda2f43e737b6bd02789481c6639786"
 
 [[files]]
 file = "mods/ok-zoomer-neo-10-0-0-beta-13.pw.toml"

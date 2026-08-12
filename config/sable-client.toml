@@ -18,4 +18,4 @@ sub_level_renderer = "SODIUM_REACHAROUND"
 # Range: 0.0 ~ 100.0
 sub_level_zoom_sensitivity = 0.2
 #If Sable should attempt to establish a UDP connection with the server, to receive sub-level movement data over a UDP channel
-attempt_udp_networking = true
+attempt_udp_networking = false

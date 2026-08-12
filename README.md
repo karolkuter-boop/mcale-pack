@@ -1,55 +1,43 @@
 # mcale-pack
 
-Paczka modów dla serii **„Minecraft, ale …"** — Minecraft 1.21.1, Fabric loader 0.19.3.
+Publiczna paczka Packwiz dla odcinka **Minecraft, ale to Rollercoaster Tycoon**.
 
-To repo jest **jedynym źródłem prawdy o tym, co ma być w instancji i na serwerze**. Wersje modów
-zmienia się tutaj, nie w instancji Prisma.
+- Minecraft 1.21.1
+- NeoForge 21.1.248
+- NeoFFTV 1.42.48
+- Create 6.0.10
+- Create: Coasters Simulated 0.1.4
+- Sable 2.0.3
+- WorldEdit 7.3.8
+- BBS, Flashback i narzędzia nagraniowe po stronie klienta
 
-## Zawartość
+Packwiz pobiera 27 publicznych plików bezpośrednio z Modrinth. Cztery własne pliki FFTV są
+przechowywane w tym repozytorium. `index.toml` i hash w `pack.toml` są generowane przez
+`packwiz refresh`.
 
-| Mod | side | po co |
-|---|---|---|
-| `mcale` | both | mod serii: panel odcinków, presety, świat odcinka |
-| Fabric API | both | wersja zgodna z tą, którą kompilowany jest mcale |
-| Sodium | client | wydajność renderowania przy nagrywaniu |
-| Flashback | client | nagrywanie i odtwarzanie ujęć |
+## Adres aktualizacji
 
-Jar `mcale-<wersja>.jar` leży w repo jako **surowy plik**, nie metaplik `.pw.toml` — zmienia się
-z każdym buildem, więc nie ma dla niego stabilnego URL-a z hashem. Reszta modów jedzie z Modrinth
-przez `.pw.toml`.
-
-## Praca z packiem
-
-```bash
-packwiz refresh                       # przelicz index po każdej zmianie w mods/
-packwiz modrinth add sodium           # dołóż mod z Modrinth
-packwiz update --all                  # sprawdź aktualizacje
-```
-
-Wgranie zawartości packa do instancji Prisma (z repo moda):
-
-```bash
-bash scripts/install-prism.sh
-```
-
-## Hosting
-
-Pack jest **publiczny** i serwowany przez raw.githubusercontent — świadomie nie GitHub Pages
-(buildy Jekyll bywały wolne i zawodne). Publiczność jest wymogiem technicznym: prywatne repo
-zmuszałoby do wpisania tokenu w komendę uruchomienia instancji, co psuje instalację na każdej
-innej maszynie.
-
-```
+```text
 https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/main/pack.toml
 ```
 
-Instancja PrismLauncher `mcale` ma to w `PreLaunchCommand`, więc synchronizuje się sama przy
-każdym starcie gry.
+Instancja Prism uruchamia przed startem:
 
-> **Repo moda (`karolkuter-boop/mcale`) jest prywatne — ten pack jest publiczny.**
-> Kod źródłowy nie jest ujawniony, ale skompilowany `mcale-<wersja>.jar` jest tu publicznie
-> pobieralny. Tak działa każdy modpack; jar pozostaje objęty licencją ARR z repo moda.
+```text
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g --side client https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/main/pack.toml
+```
 
-**Kolejność ma znaczenie:** pack musi być wypchnięty **zanim** odpalisz grę. Installer przy starcie
-przywraca stan zgodny ze zdalnym repo, więc niewypchnięty świeży jar zostałby po cichu nadpisany
-poprzednim. `install-prism.sh` robi ten push automatycznie.
+## Aktualizacja
+
+Generator znajduje się w repo NeoFFTV:
+
+```powershell
+python tools/package/build-rollercoaster-packwiz.py `
+  --source "$env:LOCALAPPDATA/Temp/neofftv-rollercoaster-pack-1.42.48/minecraft" `
+  --target "C:/AI/worktrees/mcale-pack-rollercoaster" `
+  --version 1.42.48 `
+  --export "$env:USERPROFILE/Downloads/NeoFFTV-Rollercoaster-Tycoon-1.42.48/NeoFFTV-Rollercoaster-Tycoon-1.42.48-Packwiz.mrpack"
+```
+
+Po zmianie zawartości zawsze uruchom `packwiz refresh` i sprawdź eksport `.mrpack` przed
+publikacją.

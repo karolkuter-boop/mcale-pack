@@ -1,0 +1,13 @@
+name = "Essential_1-4-1-1_neoforge_1-21-1"
+filename = "Essential_1-4-1-1_neoforge_1-21-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NbXyFjGP/Essential_1-4-1-1_neoforge_1-21-1.jar"
+hash-format = "sha512"
+hash = "bef6c28584632783b204b38bc5d9cb594e5f5b0c59cd3a08c92fc8ebbb5f542cef310717c368149305a29271b4f269eb82dd50ef9ed00cc66f37e6866958fa38"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "NbXyFjGP"

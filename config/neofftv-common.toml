@@ -1,0 +1,382 @@
+[production]
+	#Allowed Values: ALL, CREEPER_EVOLUTION, PRISON_LEGENDS, DAILY_SCARIER, ADOPT_ME, BACKROOMS, DOKTOR_MOBOW, EVERYTHING_HATES_YOU, ROLLERCOASTER_TYCOON
+	activeEpisode = "ROLLERCOASTER_TYCOON"
+	activeRunnerName = "Dev"
+	activeRunnerName2 = ""
+	showGiveToRunnerNotification = false
+
+[abilities]
+	enableMobPowers = true
+	enableSounds = true
+	enableParticles = true
+	showFailureMessages = true
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	cooldownMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	damageMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	rangeMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	effectDurationMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	knockbackMultiplier = 1.0
+	enableXpPowerScaling = true
+	xpTierThresholds = [0, 5, 10, 20, 30]
+	# Default: 0.03
+	# Range: 0.0 ~ 1.0
+	xpDamagePerLevel = 0.03
+	# Default: 0.015
+	# Range: 0.0 ~ 1.0
+	xpRangePerLevel = 0.015
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	xpDurationPerLevel = 0.02
+	# Default: 0.015
+	# Range: 0.0 ~ 1.0
+	xpKnockbackPerLevel = 0.015
+	# Default: 0.008
+	# Range: 0.0 ~ 1.0
+	xpCooldownReductionPerLevel = 0.008
+	# Default: 1.5
+	# Range: 0.0 ~ 20.0
+	xpDamageCap = 1.5
+	# Default: 0.75
+	# Range: 0.0 ~ 20.0
+	xpRangeCap = 0.75
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	xpDurationCap = 1.0
+	# Default: 0.75
+	# Range: 0.0 ~ 20.0
+	xpKnockbackCap = 0.75
+	# Default: 0.35
+	# Range: 0.0 ~ 0.95
+	xpCooldownReductionCap = 0.35
+	creeperExplosionBreaksBlocks = false
+	ignoreCooldownsInCreative = false
+	logAbilityUse = false
+	logRejectedAbilityUse = false
+
+		[abilities.perAbility.zombie_strike]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.undead_roar]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.undead_endurance]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.water_strike]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.undertow]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.deep_flow]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.bone_shot]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.bone_volley]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.bone_dodge]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.hissing_blast]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.creeper_bomb]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.creeper_vision]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.charged_leap]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.camouflage]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.spider_pounce]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.web_shot]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.wall_climb]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.ender_blink]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.ender_fury]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.shadow_step]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.firebolt]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.flame_ring]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.heat_aura]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.charge]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.herd_instinct]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.agility]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.wild_attack]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.menace]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.survival]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.marked_shot]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.raid_command]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.hexguard]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.prismarine_beam]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.undertow_pulse]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.ocean_ward]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.ooze_bounce]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.sticky_splash]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.elastic_hide]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.heavy_slam]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.sentinel_guard]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.repairing_core]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.wing_burst]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.dive_strike]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.air_drift]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.infernal_gore]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.war_cry]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+		[abilities.perAbility.ember_skin]
+			enabled = true
+			# Default: 0
+			# Range: 0 ~ 1200
+			cooldownSecondsOverride = 0
+
+[hybridHeads]
+	enableHybridMobHeads = true
+	hybridMobHeadPowers = true
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	hybridMobHeadDamageMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	hybridMobHeadCooldownMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	hybridMobHeadRangeMultiplier = 1.0
+	hybridMobHeadCanTargetPlayers = true
+	hybridCreeperBreaksBlocks = false
+	logHybridHeadBehavior = false
+
+[headSeparation]
+	enableHeadSeparation = true
+	requireIronSword = true
+	consumeSwordDurability = true
+	allowPassiveMobHeads = true
+	allowMonsterHeads = true
+	allowBossHeads = false
+	allowSlimeHeads = false
+	allowMagmaCubeHeads = false
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	headSeparationChance = 1.0
+
+[prisonLegends]
+	# Default: 5
+	# Range: 1 ~ 64
+	glitchSheepWitherThreshold = 5
+	# Default: 90
+	# Range: 1 ~ 600
+	glitchSheepWoolRegrowSeconds = 90

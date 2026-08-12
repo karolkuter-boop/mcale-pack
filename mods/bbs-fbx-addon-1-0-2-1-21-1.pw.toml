@@ -1,0 +1,13 @@
+name = "bbs-fbx-addon-1.0.2-1.21.1"
+filename = "bbs-fbx-addon-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSJUazvQ/versions/NEhmEPWF/bbs-fbx-addon-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "18f05cd8db0791375fa7a5e39093c57d8ef3fe35a0e1d65dad7b8ffe538cacfd5b2b798a79cbc03129a2a116b5f8c79a60b83fbb19d2c80b22fa7c7ca2bb47ab"
+
+[update]
+[update.modrinth]
+mod-id = "QSJUazvQ"
+version = "NEhmEPWF"

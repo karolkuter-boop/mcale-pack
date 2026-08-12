@@ -1,0 +1,724 @@
+[
+  {
+    "id": 1,
+    "label": "prison_intro",
+    "segments": [
+      {
+        "text": "16 MITÓW. 16 CEL.\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Łap żywcem. Powodzenia.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 2,
+    "label": "prison_book_found",
+    "segments": [
+      {
+        "text": "PRZEWODNIK ŁOWCY MITÓW\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Danger Level mówi wszystko.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 100,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 3,
+    "label": "prison_who_is_that",
+    "segments": [
+      {
+        "text": "A KTO TO TAKI?\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 80,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 4,
+    "label": "prison_legend_scary_sheep",
+    "segments": [
+      {
+        "text": "GLITCH OWCA\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Ma wełnę → teleportuje się. Zetnij ją nożycami.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 5,
+    "label": "prison_legend_blood_villager",
+    "segments": [
+      {
+        "text": "KRWAWY VILLAGER\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Łódka go zatrzyma. Aresztuję cię w imieniu Mojanga.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 6,
+    "label": "prison_legend_cave_dweller",
+    "segments": [
+      {
+        "text": "CAVE DWELLER\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Boi się światła. Zaganiaj pochodnią pod kratę.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 7,
+    "label": "prison_arka_noego",
+    "segments": [
+      {
+        "text": "STRASZNA WYCIECZKA\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Autokar do Strasznej Metropolii. Moby same wsiadają.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 8,
+    "label": "prison_legend_goatman",
+    "segments": [
+      {
+        "text": "GOATMAN\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Zagraj melodię na noteblockach. Wpadnie w trans.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 9,
+    "label": "prison_legend_blood_golem",
+    "segments": [
+      {
+        "text": "KRWAWY GOLEM\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Za duży na łódkę. Wystrzel go armatą TNT.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 10,
+    "label": "prison_legend_man_fog",
+    "segments": [
+      {
+        "text": "MAN FROM THE FOG\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Włącz generator mgły. Piasek pod stopy.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 11,
+    "label": "prison_legend_null",
+    "segments": [
+      {
+        "text": "NULL\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Wabik pochodnią. Opadający piasek. Cela bedrock.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 12,
+    "label": "prison_legend_headless_steve",
+    "segments": [
+      {
+        "text": "STEVE BEZ TWARZY\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Zaczep go wędką jak rybę. Wciągnij za kraty.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 13,
+    "label": "prison_legend_blood_alex",
+    "segments": [
+      {
+        "text": "KRWAWA ALEX\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Wypowiedz jej imię. Stiven w pułapce.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 14,
+    "label": "prison_legend_entity_303",
+    "segments": [
+      {
+        "text": "ENTITY 303\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Dealereq sam. Stiven nie istnieje teraz.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 15,
+    "label": "prison_legend_backrooms_smiler",
+    "segments": [
+      {
+        "text": "BACKROOMS SMILER\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Suchy żart + samośmiech. Pojawi się.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 16,
+    "label": "prison_legend_white_enderman",
+    "segments": [
+      {
+        "text": "BIAŁY ENDERMAN\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Mieszkaniec Far Lands. Wciągnij portalem do Netheru.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 17,
+    "label": "prison_legend_herobrine",
+    "segments": [
+      {
+        "text": "HEROBRINE\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Totem: 4 redstone + złote jabłko. Pułapka z piasku.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 18,
+    "label": "prison_summon_herobrine",
+    "segments": [
+      {
+        "text": "PRZYWOŁANIE HEROBRINE\u0027A\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Złoto. Redstone. Oko endera.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 19,
+    "label": "prison_farlands",
+    "segments": [
+      {
+        "text": "FAR LANDS\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "White Enderman czeka. Trzymaj się portalu.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 20,
+    "label": "prison_trap_sand",
+    "segments": [
+      {
+        "text": "PUŁAPKA Z PIASKU\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Stiven, naciśnij teraz.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 100,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 21,
+    "label": "prison_stiven_not_now",
+    "segments": [
+      {
+        "text": "STIVEN, NIE TERAZ.\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Reset pułapki. Spróbuj jeszcze raz.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 100,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 22,
+    "label": "prison_stiven_bait",
+    "segments": [
+      {
+        "text": "STIVEN JEST PRZYNĘTĄ\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Tak, dosłownie. Zaufaj mi.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 110,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 23,
+    "label": "prison_legend_bloop",
+    "segments": [
+      {
+        "text": "THE BLOOP\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Helikopter i hak. DUET. Ostatni boss.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 130,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 24,
+    "label": "prison_stiven_lever",
+    "segments": [
+      {
+        "text": "STIVEN, TRZYMAJ DŹWIGNIĘ\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Magnes się odepnie. Ostrzegałem.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 100,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 25,
+    "label": "prison_betrayal",
+    "segments": [
+      {
+        "text": "HEROBRINE OTWORZYŁ ZAMEK\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Ma wyższą inteligencję niż zakładałem.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 130,
+    "sound": "minecraft:entity.experience_orb.pickup",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 26,
+    "label": "prison_all_locked",
+    "segments": [
+      {
+        "text": "16/16 CEL ZAMKNIĘTYCH\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Selfie z każdą celą. Brawo.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 120,
+    "sound": "minecraft:ui.toast.challenge_complete",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 27,
+    "label": "prison_great_escape",
+    "segments": [
+      {
+        "text": "WIELKA UCIECZKA\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "Wszystkie naraz. Uciekaj!",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 130,
+    "sound": "minecraft:ui.toast.challenge_complete",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  },
+  {
+    "id": 28,
+    "label": "prison_no_prison_holds",
+    "segments": [
+      {
+        "text": "ŻADNE WIĘZIENIE ICH NIE UTRZYMA\n",
+        "color": 7208845,
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "CDN.",
+        "color": 16777215,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "displayMode": "SUBTITLE",
+    "durationTicks": 140,
+    "sound": "minecraft:ui.toast.challenge_complete",
+    "contextSound": "minecraft:block.iron_door.close",
+    "targetMode": "ALL",
+    "targetValue": "",
+    "rewardItemStr": "",
+    "linkedActionIds": []
+  }
+]

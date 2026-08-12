@@ -1,6 +1,6 @@
-# Pliki repo, ktore nie maja trafiac do instancji gracza.
-README.md
+.git/
 .gitattributes
 .gitignore
-.packwiz-cache/
-release-backups/
+.packwizignore
+README.md
+*.mrpack

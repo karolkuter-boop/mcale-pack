@@ -1,0 +1,98 @@
+[hud]
+	showMobPowerHud = true
+	#Allowed Values: RIGHT_RAIL, ABOVE_HOTBAR, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+	hudAnchor = "RIGHT_RAIL"
+	# Default: 0
+	# Range: -500 ~ 500
+	hudXOffset = 0
+	# Default: 0
+	# Range: -500 ~ 500
+	hudYOffset = 0
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	hudScale = 1.0
+	showCooldownNumbers = true
+	showReadyLabel = true
+	compactHud = true
+	showAbilityTooltips = true
+
+[tacticalmap]
+	enableCinematicStrikes = true
+
+[rendering]
+	enableWorldDisguiseRender = true
+	enableFirstPersonAppendages = true
+	enableSpectatorPovMirror = true
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	appendageScale = 1.0
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	appendageXSpread = 1.0
+	# Default: 0.0
+	# Range: -1.0 ~ 1.0
+	appendageYOffset = 0.0
+	# Default: 0.0
+	# Range: -1.0 ~ 1.0
+	appendageZOffset = 0.0
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	humanoidLayoutMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	quadrupedLayoutMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.5 ~ 2.0
+	multiLegLayoutMultiplier = 1.0
+	showHeadReattachmentSlimeMarker = true
+	headReattachmentSlimeParticles = true
+	showHybridAttachedHeads = true
+	showFreshHeadGlueRing = true
+	hybridHeadParticles = true
+
+[camera]
+	#Allowed Values: OFF, WIGGLE, HANDHELD
+	cameraWiggleMode = "OFF"
+	# Default: 0.0
+	# Range: 0.0 ~ 3.0
+	cameraWiggleWalkIntensity = 0.0
+	# Default: 0.0
+	# Range: 0.0 ~ 3.0
+	cameraWiggleIdleIntensity = 0.0
+	# Default: 1.0
+	# Range: 0.1 ~ 4.0
+	cameraWiggleSpeed = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	cameraWigglePitch = 1.0
+	# Default: 0.45
+	# Range: 0.0 ~ 3.0
+	cameraWiggleYaw = 0.45
+	# Default: 0.25
+	# Range: 0.0 ~ 3.0
+	cameraWiggleRoll = 0.25
+	# Default: 1.35
+	# Range: 0.25 ~ 4.0
+	cameraWiggleSprintMultiplier = 1.35
+
+[magicVision]
+	enableVeilEffects = true
+	enableArmyTacticalOverlay = true
+	enablePrisonImmersion = true
+	prisonSafeRender = false
+	prisonSafeRenderAuto = true
+	# Default: 96
+	# Range: 8 ~ 512
+	armyOverlayMaxMembers = 96
+	# Default: 64
+	# Range: 0 ~ 512
+	armyOverlayMaxLinks = 64
+	magicVisionEnabledByDefault = false
+	#Allowed Values: LOW, MEDIUM, HIGH
+	magicVisionQuality = "MEDIUM"
+	# Default: 96
+	# Range: 16 ~ 256
+	magicVisionMaxTrackedEntities = 96
+	# Default: 36
+	# Range: 4 ~ 160
+	magicVisionMaxTrailPoints = 36

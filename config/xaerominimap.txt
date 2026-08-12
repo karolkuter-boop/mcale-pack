@@ -1,2 +1,0 @@
-minimap:false
-showWaypoints:false

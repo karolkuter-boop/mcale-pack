@@ -17,10 +17,6 @@ file = "config/bbs/settings/keybinds.json"
 hash = "56f1d15f6d55202bbd96d48fb01901bf25096128a4f5cb4cf2c6690d09aee004"
 
 [[files]]
-file = "config/com.yuushya/client_config.json"
-hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
-
-[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -37,72 +33,8 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
-file = "config/drippyloadingscreen/options.txt"
-hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "5eb558a283da431aa68ccf680053b9d394dbb4945cd3faf4475cedf22723b209"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "b16a1fbade8ab623f0a50a7d4657f8390ea4518bcc202f9fc011d6e5faf14db8"
-
-[[files]]
-file = "config/fancymenu/customization/shady_contract_layout.txt"
-hash = "11fb1addba9590f1d9d747972d886b91f626181fba55b1f24bf6dafc3037f60d"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cherry_blossom.json"
-hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cozy_campfire.json"
-hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark_high_contrast.json"
-hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light_high_contrast.json"
-hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/pumpkin_soup.json"
-hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-
-[[files]]
-file = "config/fancymenu/ui_themes/purple_void.json"
-hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-
-[[files]]
-file = "config/fancymenu/ui_themes/spooky_season.json"
-hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fftv_director_actions.json"
@@ -115,22 +47,6 @@ hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
 [[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
-
-[[files]]
-file = "config/konkrete/locals/de_de.local"
-hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
-
-[[files]]
-file = "config/konkrete/locals/en_us.local"
-hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
-
-[[files]]
-file = "config/konkrete/locals/pl_pl.local"
-hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
-
-[[files]]
-file = "config/konkrete/locals/pt_br.local"
-hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -308,18 +224,8 @@ hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
-file = "mods/drippyloadingscreen-neoforge-3-1-5-mc-1-21-1.pw.toml"
-hash = "4c42b6700739e7e888a51bb001a92ceda8327cdadee40b8d4c742e40dd223675"
-metafile = true
-
-[[files]]
 file = "mods/essential-1-4-1-1-neoforge-1-21-1.pw.toml"
 hash = "079d7ae304d8a1151a4101abda234ed78d5474429e1955e26e5a0ae7c33c6f83"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu-neoforge-3-9-9-mc-1-21-1.pw.toml"
-hash = "9bec597aa4d5d269d44ec779771cbedf0eba549186a4f2dce5f0ab4850d0bca1"
 metafile = true
 
 [[files]]
@@ -337,18 +243,8 @@ hash = "a454ed83d887eb201a9a207a274a8591edaeb766a49321e8dd6fdc38320cbfb0"
 metafile = true
 
 [[files]]
-file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
-hash = "f310fa1b7ced4df1468e6bf27a33195f235f37d6ab5ba8221bb8fceb17f3b242"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
 hash = "e97e974617830ed7d27dbad22e7621867b0d7a1a978adc162d9e9470715a89ed"
-metafile = true
-
-[[files]]
-file = "mods/melody-neoforge-1-0-10-mc-1-21.pw.toml"
-hash = "1a3f1764ac605cd01d08600616be374fe78df01154ff9ebc2f1d31e8be5caa71"
 metafile = true
 
 [[files]]
@@ -403,16 +299,6 @@ metafile = true
 [[files]]
 file = "mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml"
 hash = "8799ecfb903aaddd95238b53a1a7f189b7c9947d3c19388e467c680caa2ce576"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-1-21-0-neoforge-2-3-0.pw.toml"
-hash = "432a67270646e68bffbe209a1e850a3258488a5e89df1d660c38abebbd591e92"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-modelling-1-21-1-2-4-1.pw.toml"
-hash = "5833127a95cf9d491ad899e9290a729110cb68cfde6017077c51c3c2d9868927"
 metafile = true
 
 [[files]]

@@ -92,7 +92,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cb61cda71902215e193c84bae556e92bda4b4443567dfe12b4ac0fff06277fdb"
+hash = "34c3c1dfb601b59623585ae7bfc74305c46e06bd7422dacf4fa6a272743db188"
+
+[[files]]
+file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"
+hash = "882a78f2e31d9ce19527ead92491f481a305ac4bd919d5a1925bf4bdc5af0901"
+
+[[files]]
+file = "resourcepacks/neofftv-audio-defaults/pack.mcmeta"
+hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 
 [[files]]
 file = "servers.dat"

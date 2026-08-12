@@ -1,0 +1,12 @@
+{
+  "entity.generic.explode": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.explode",
+    "sounds": [
+      { "name": "random/explode1", "volume": 0.8 },
+      { "name": "random/explode2", "volume": 0.8 },
+      { "name": "random/explode3", "volume": 0.8 },
+      { "name": "random/explode4", "volume": 0.8 }
+    ]
+  }
+}

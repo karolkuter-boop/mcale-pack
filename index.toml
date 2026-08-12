@@ -84,8 +84,9 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc9.jar"
-hash = "230783881dd5b210547d6104519e6cc3103933e5d1a2306c5852c5d88d2f2691"
+file = "mods/neofftv.pw.toml"
+hash = "1c202085ba7a851b315c68f0307ec469524acefa51a4f4c4496769e27da6a867"
+metafile = true
 
 [[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"

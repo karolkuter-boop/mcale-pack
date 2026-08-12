@@ -248,8 +248,8 @@ hash = "e97e974617830ed7d27dbad22e7621867b0d7a1a978adc162d9e9470715a89ed"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc8.jar"
-hash = "564487b203d22cac4983856885fcc4e66829680cba9d98ab9cbf6b441cb1fef7"
+file = "mods/neofftv-1.42.49-rc9.jar"
+hash = "230783881dd5b210547d6104519e6cc3103933e5d1a2306c5852c5d88d2f2691"
 
 [[files]]
 file = "mods/ok-zoomer-neo-10-0-0-beta-13.pw.toml"
@@ -312,6 +312,10 @@ hash = "882a78f2e31d9ce19527ead92491f481a305ac4bd919d5a1925bf4bdc5af0901"
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/pack.mcmeta"
 hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
+
+[[files]]
+file = "scratch-pack-neofftv-rc8.jar"
+hash = "564487b203d22cac4983856885fcc4e66829680cba9d98ab9cbf6b441cb1fef7"
 
 [[files]]
 file = "servers.dat"

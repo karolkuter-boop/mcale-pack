@@ -4,7 +4,7 @@ Publiczna paczka Packwiz dla odcinka **Minecraft, ale to Rollercoaster Tycoon**.
 
 - Minecraft 1.21.1
 - NeoForge 21.1.248
-- NeoFFTV 1.42.48
+- NeoFFTV 1.42.49-rc42
 - Create 6.0.10
 - Create: Coasters Simulated 0.1.4
 - Sable 2.0.3
@@ -14,6 +14,9 @@ Publiczna paczka Packwiz dla odcinka **Minecraft, ale to Rollercoaster Tycoon**.
 Packwiz pobiera 27 publicznych plików bezpośrednio z Modrinth. Cztery własne pliki FFTV są
 przechowywane w tym repozytorium. `index.toml` i hash w `pack.toml` są generowane przez
 `packwiz refresh`.
+
+Paczka nie zawiera Yuushya, FancyMenu ani ich dodatkow. Zawiera BBS i Flashback
+dla ekipy nagraniowej oraz wspolne waypointy Xaero dla `mcale.csrv.gg`.
 
 ## Adres aktualizacji
 

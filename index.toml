@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "e654dcdc728de7b05bab31f0bd26404b3fe0f1a9932eaf8b48ac364082fb886e"
+hash = "1d3a5b9878f1eac91f5d1f326f9b479080dc07a32c7fcced2e045202dce9986f"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "34c3c1dfb601b59623585ae7bfc74305c46e06bd7422dacf4fa6a272743db188"
+hash = "6911d0a241f66a93f90c03b1036ffa695643801fb0c951d849ec8c9e1a5deb03"
 
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"

@@ -2,7 +2,7 @@
 
 Minimalny klient do polaczenia z `mcale.csrv.gg`.
 
-Aktualny kandydat: NeoFFTV `1.42.49-rc49`. Zawiera operowalne miasteczko,
+Aktualny kandydat: NeoFFTV `1.42.49-rc58`. Zawiera operowalne miasteczko,
 panel mapy, zakupy graczy, produkcyjne sterowanie eventami i scenami oraz
 widoczne wagoniki z gosciami podczas pelnego przejazdu atrakcji.
 

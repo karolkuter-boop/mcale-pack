@@ -41,6 +41,10 @@ file = "config/fftv_director_actions.json"
 hash = "187a975bfe9245110f264eeb9c5a393ea52b2964b468cb1aacfba867ae4e6291"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
+
+[[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
@@ -245,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "1d3a5b9878f1eac91f5d1f326f9b479080dc07a32c7fcced2e045202dce9986f"
+hash = "d43e5967d838a22958c6686825bf799289938e5ad2b2d0bd2311a13b9b979dbe"
 metafile = true
 
 [[files]]

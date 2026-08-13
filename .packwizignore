@@ -4,3 +4,4 @@
 .packwizignore
 README.md
 *.mrpack
+mods/neofftv-*.jar

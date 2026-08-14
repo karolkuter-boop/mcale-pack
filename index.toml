@@ -84,8 +84,12 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
+file = "mods/neofftv-1.42.49-rc74.jar"
+hash = "20739d6d126174c8a87bc58158201abba56e831d116a55573313b241b8422252"
+
+[[files]]
 file = "mods/neofftv.pw.toml"
-hash = "53098ea4929817d206574c3527f3a8369b2fde3f85513c4d6d92ef9425df5876"
+hash = "c10c5aa6e34140c22655f5836a0a3a4ac55771c703c213fea6205e030841afd0"
 metafile = true
 
 [[files]]

@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".rc78-prism/.packignore"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = ".rc78-prism/START_HERE.txt"
+hash = "42b4678358b22c347b0356c3fdc6360167cb4b8e9f06abd1209c0c9f73c062b4"
+
+[[files]]
+file = ".rc78-prism/instance.cfg"
+hash = "1f6e2882b836f937e9995d3d55e098fce7c017e33ffb5a5b2adf7ccfb871d76e"
+
+[[files]]
+file = ".rc78-prism/minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = ".rc78-prism/minecraft/packwiz-update.cmd"
+hash = "fd3e2537e5409a1f8d3b930d28237e5d1b6f3e279a942a1b4c9ee07c6c7d8128"
+
+[[files]]
+file = ".rc78-prism/mmc-pack.json"
+hash = "e748779ac72c9bb7a154dad9b9445e65f1cedfaf2cbcea899bfa8bcd37c54fde"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -120,14 +144,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "6911d0a241f66a93f90c03b1036ffa695643801fb0c951d849ec8c9e1a5deb03"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "packwiz.json"
-hash = "4626fcdedb1fe3ba2139d44ab92c0eed42531cb7c17e14170b6b0e2bd4b2989d"
 
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"

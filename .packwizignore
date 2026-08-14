@@ -4,6 +4,8 @@
 .packwizignore
 .rc76-*/
 README.md
+packwiz-installer.jar
+packwiz.json
 *.mrpack
 *.zip
 *.sha256

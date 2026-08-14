@@ -2,7 +2,7 @@
 
 Minimalny klient do polaczenia z `mcale.csrv.gg`.
 
-Aktualny kandydat: NeoFFTV `1.42.49-rc83`. Zawiera grywalny tryb Tycoon,
+Aktualny kandydat: NeoFFTV `1.42.49-rc84`. Zawiera grywalny tryb Tycoon,
 przewijane centrum zarzadzania, czytelna mape atrakcji, funkcjonalne budynki,
 wyrazna progresje predkosci i skladu, przejazdy gracza na tych samych fizycznych
 pociagach co goscie oraz skalowalny tlum do 256 gosci tworzacych pary i

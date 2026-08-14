@@ -3,6 +3,7 @@
 .gitignore
 .packwizignore
 .rc76-*/
+.rc78-*/
 README.md
 packwiz-installer.jar
 packwiz.json

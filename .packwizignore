@@ -15,7 +15,7 @@ mods/*
 !mods/uilib-1-0-1-1-21-1-neoforge.pw.toml
 !mods/worldedit-mod-7-3-8.pw.toml
 !mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml
-!mods/neofftv-1.42.49-rc59.jar
+!mods/neofftv-1.42.49-rc72.jar
 
 config/*
 !config/aeronautics-server.toml

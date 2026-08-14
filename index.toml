@@ -84,12 +84,12 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc78.jar"
-hash = "6980e1d6f14c7ecae6abdb9095ae211dcf99ef1def9c9291ef1aca17d3f63e9f"
+file = "mods/neofftv-1.42.49-rc81.jar"
+hash = "be7cfab618ba4397b183ffc46751c5124e0d68d8fba089ee9d57a958c71b2380"
 
 [[files]]
-file = "mods/neofftv-rc78.pw.toml"
-hash = "9a0bd0f3ec4a9e2b46faf152e3daac6d89e4f30c0280b86a358cf5d89db83382"
+file = "mods/neofftv-rc81.pw.toml"
+hash = "6dfa407615f816bb268efa9de5c518e9711b5fb05b4b572b747fae959b04dbb7"
 metafile = true
 
 [[files]]

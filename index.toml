@@ -124,7 +124,7 @@ file = "mods/neofftv-1.42.49-rc76.jar"
 hash = "c0140f79920ebdc1d61ad93f76bf5ef8c9496b41c09aa14d387e6cd9d5e46c43"
 
 [[files]]
-file = "mods/neofftv.pw.toml"
+file = "mods/neofftv-rc76.pw.toml"
 hash = "1e3d98f5a0e1c1aa17b45ac4e09ef4380068b85ce950264320213d3edbe24c34"
 metafile = true
 

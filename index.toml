@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".rc76-prism/.packignore"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = ".rc76-prism/START_HERE.txt"
+hash = "1c076bd44530c9373625037a0bb18bb56950d65075de8cdd0022fc28a578dc24"
+
+[[files]]
+file = ".rc76-prism/instance.cfg"
+hash = "a31765f2d797676c7d8d1b502c3542f247c565d4d96915c4fa3847b5b0fc7bf3"
+
+[[files]]
+file = ".rc76-prism/minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = ".rc76-prism/minecraft/packwiz-update.cmd"
+hash = "3c07d00e946169882b028c45d6aa08d85fb70bdfd7f61b83000023063855000f"
+
+[[files]]
+file = ".rc76-prism/mmc-pack.json"
+hash = "e748779ac72c9bb7a154dad9b9445e65f1cedfaf2cbcea899bfa8bcd37c54fde"
+
+[[files]]
+file = ".rc76-sync-smoke/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = ".rc76-sync-smoke/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = ".rc76-sync-smoke/packwiz-update.cmd"
+hash = "3c07d00e946169882b028c45d6aa08d85fb70bdfd7f61b83000023063855000f"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -89,7 +125,7 @@ hash = "c0140f79920ebdc1d61ad93f76bf5ef8c9496b41c09aa14d387e6cd9d5e46c43"
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "c6a970fe67d2361e637d4a796e0bf459c7b0a4e5c8a45b57b3a385335e312c79"
+hash = "1e3d98f5a0e1c1aa17b45ac4e09ef4380068b85ce950264320213d3edbe24c34"
 metafile = true
 
 [[files]]

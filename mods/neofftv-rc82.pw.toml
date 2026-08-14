@@ -3,6 +3,6 @@ filename = "neofftv-1.42.49-rc82.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/codex/rollercoaster-rc81/mods/neofftv-1.42.49-rc82.jar"
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/95c0123b5f742c744c8ebf039b9badb6728c7137/mods/neofftv-1.42.49-rc82.jar"
 hash-format = "sha256"
 hash = "2bf01588db4d3035746fac9dcc5bb3dea147925b3286adcc6038e4796c5e3c7f"

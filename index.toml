@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "NeoFFTV-Rollercoaster-Tycoon-1.42.49-rc74-LITE-Prism-Packwiz.zip.sha256"
+hash = "4c81f0077f7b244d831dcbaea76327140b65fd5963e62887eea910934d3d4d2f"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -84,12 +88,12 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc74.jar"
-hash = "20739d6d126174c8a87bc58158201abba56e831d116a55573313b241b8422252"
+file = "mods/neofftv-1.42.49-rc75.jar"
+hash = "002aba719ab0e796af9e1b903d04c8d094615f66eb1a9f88818b86f6282a5b1f"
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "c10c5aa6e34140c22655f5836a0a3a4ac55771c703c213fea6205e030841afd0"
+hash = "8c4810cbdd5e4284d16aa9d84ff4ac34aedf664594e5586718bc397b65bba562"
 metafile = true
 
 [[files]]

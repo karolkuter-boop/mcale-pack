@@ -2,6 +2,7 @@
 .gitattributes
 .gitignore
 .packwizignore
+.rc76-*/
 README.md
 *.mrpack
 *.zip

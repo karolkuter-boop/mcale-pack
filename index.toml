@@ -84,12 +84,12 @@ hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.42.49-rc77.jar"
-hash = "418d25fbfe5648c5b279dde135ceee67995fcd9e34676bdd024ec923a052b090"
+file = "mods/neofftv-1.42.49-rc78.jar"
+hash = "6980e1d6f14c7ecae6abdb9095ae211dcf99ef1def9c9291ef1aca17d3f63e9f"
 
 [[files]]
-file = "mods/neofftv-rc77.pw.toml"
-hash = "8e48f32cca5c358da2f1b24de2bae02c92e5d2e675b895a6f20612462086a2bf"
+file = "mods/neofftv-rc78.pw.toml"
+hash = "9a0bd0f3ec4a9e2b46faf152e3daac6d89e4f30c0280b86a358cf5d89db83382"
 metafile = true
 
 [[files]]
@@ -120,6 +120,14 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "6911d0a241f66a93f90c03b1036ffa695643801fb0c951d849ec8c9e1a5deb03"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "4626fcdedb1fe3ba2139d44ab92c0eed42531cb7c17e14170b6b0e2bd4b2989d"
 
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"

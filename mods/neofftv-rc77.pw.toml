@@ -1,0 +1,8 @@
+name = "NeoFFTV"
+filename = "neofftv-1.42.49-rc77.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/lite/mods/neofftv-1.42.49-rc77.jar"
+hash-format = "sha256"
+hash = "418d25fbfe5648c5b279dde135ceee67995fcd9e34676bdd024ec923a052b090"

@@ -2,13 +2,15 @@
 
 Minimalny klient do polaczenia z `mcale.csrv.gg`.
 
-Aktualny kandydat: NeoFFTV `1.42.49-rc84`. Zawiera grywalny tryb Tycoon,
+Aktualny kandydat: NeoFFTV `1.42.49-rc85`. Zawiera grywalny tryb Tycoon,
 przewijane centrum zarzadzania, czytelna mape atrakcji, funkcjonalne budynki,
 wyrazna progresje predkosci i skladu, przejazdy gracza na tych samych fizycznych
 pociagach co goscie oraz skalowalny tlum do 256 gosci tworzacych pary i
 zroznicowane wycieczki. RC84 usuwa legacy sprzeglo, silnik i lampe ze skrajni
 toru, przenosi osprzet do budki operatora, stabilizuje natywne sklady i kieruje
 pelne czteroosobowe kohorty na perony bez nadpisywania wagonow ani budowli ekipy.
+RC85 przyspiesza jednorazowa generacje swiezego fundamentu parku; po przejeciu
+projektu ochrona budowniczych nadal blokuje automatyczne przebudowy mapy.
 
 Rdzen serwerowy tworza NeoFFTV, Create, Create Aeronautics Bundled, Sable,
 Simulated Coasters, WorldEdit, UILib i Architectury. Paczka klienta zawiera

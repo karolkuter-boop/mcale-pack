@@ -85,11 +85,11 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv-1.42.49-rc76.jar"
-hash = "c0140f79920ebdc1d61ad93f76bf5ef8c9496b41c09aa14d387e6cd9d5e46c43"
+hash = "8c8f3c20a09309b073b2707f2040fbf82da676be599462640a7bed5c434be0d3"
 
 [[files]]
 file = "mods/neofftv-rc76.pw.toml"
-hash = "1e3d98f5a0e1c1aa17b45ac4e09ef4380068b85ce950264320213d3edbe24c34"
+hash = "d67ca028269cf3e8a91694b960252b998a8498cd7cc307ffac868ec5ca9108cd"
 metafile = true
 
 [[files]]

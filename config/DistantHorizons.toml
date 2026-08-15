@@ -710,7 +710,7 @@ _version = 4
 				# 
 				# Fastest: CHUNK
 				# Fanciest: BLOCK
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "FOUR_BLOCKS"
 				#
 				# If true LODs will fade away as you get closer to them. 
 				# If false LODs will cut off abruptly at a set distance from the camera. 

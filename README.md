@@ -18,6 +18,11 @@ Simulated Coasters, WorldEdit, UILib i Architectury. Paczka klienta zawiera
 tez zatwierdzone narzedzia wydajnosciowe, nagraniowe i produkcyjne.
 Nie zawiera Yuushya, FancyMenu ani ich dodatkow.
 
+Zawiera Distant Horizons (LOD renderer terenu, wersja 3.2.0-b, side "both" —
+dziala tez na serwerze mcale.csrv.gg i streamuje LODy do klientow), zeby przy
+nagraniach bylo widac caly park (~500x460 blokow) z daleka, gdy ktos po nim
+chodzi. Domyslny zasieg LOD to 256 chunkow, jakosc umiarkowana pod nagrania.
+
 Packwiz URL:
 
 ```text

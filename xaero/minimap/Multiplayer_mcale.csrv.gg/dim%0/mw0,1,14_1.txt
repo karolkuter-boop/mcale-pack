@@ -4,14 +4,14 @@
 waypoint:Punkt bazowy parku:PB:0:0:0:15:false:0:gui.xaero_default:false:0:0:false
 waypoint:Wejscie do parku:WE:0:0:0:4:false:0:gui.xaero_default:false:0:0:false
 waypoint:Plac glowny:PG:0:0:70:4:false:0:gui.xaero_default:false:0:0:false
-waypoint:Villager Express:VE:-140:0:70:5:false:0:gui.xaero_default:false:0:0:false
-waypoint:SkyLoop:SL:140:0:70:3:false:0:gui.xaero_default:false:0:0:false
-waypoint:SzymeqCoaster:SC:-170:0:360:6:false:0:gui.xaero_default:false:0:0:false
-waypoint:Lava Serpent:LS:170:0:360:14:false:0:gui.xaero_default:false:0:0:false
-waypoint:Zadra Tribute:ZT:-210:0:735:12:false:0:gui.xaero_default:false:0:0:false
-waypoint:Hyperion Tribute:HT:210:0:735:1:false:0:gui.xaero_default:false:0:0:false
-waypoint:Scena finalowa:SF:0:0:820:10:false:0:gui.xaero_default:false:0:0:false
-waypoint:Park konkurencji:PK:430:0:735:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Villager Express:VE:-100:0:70:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:SkyLoop:SL:100:0:70:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:SzymeqCoaster:SC:-100:0:204:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lava Serpent:LS:100:0:204:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zadra Tribute:ZT:-100:0:338:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hyperion Tribute:HT:100:0:338:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Scena finalowa:SF:0:0:430:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Park konkurencji:PK:250:0:338:13:false:0:gui.xaero_default:false:0:0:false
 waypoint:Przystanek autokaru:PA:-64:0:-32:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Generator blackoutu:GB:96:-6:104:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Backstage:BS:260:0:-64:8:false:0:gui.xaero_default:false:0:0:false
@@ -25,3 +25,4 @@ waypoint:Kamera zakup:KZ:10:4:72:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Kamera szeroka:KS:0:70:300:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Kamera final:KF:34:14:820:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Kamera miniatura:KM:28:9:112:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Graybox:GX:6000:1:150:7:false:0:gui.xaero_default:false:0:0:false

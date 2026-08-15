@@ -93,6 +93,11 @@ hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
+file = "mods/neofftv-rc98.pw.toml"
+hash = "2189e6e822e8c52b8b7b11b7ae8d98ff5e807102a81a5e7c3ac4fbbc44e6d76e"
+metafile = true
+
+[[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
 hash = "807679f96b1034886a28750e27d0edf64018e7f19ab46ec9d6731848f0da30e7"
 metafile = true

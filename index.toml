@@ -93,8 +93,8 @@ hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-rc99.pw.toml"
-hash = "7f60894b0f940b4464474fef4a290a27a47f3bbeedb80336a9754bc4e817a62d"
+file = "mods/neofftv-rc100.pw.toml"
+hash = "41bc75ab017e1d40e7219caf526e21e9fed41abd1d317a2f4771cf8cb98faf65"
 metafile = true
 
 [[files]]
@@ -140,4 +140,4 @@ hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"
-hash = "6486d099a388d76fa1039acef1b811786d1c31f267fae291cb7cfdb75b1dce76"
+hash = "1486ba56c46340ff41f1c4da71ed131bf7ee5f926ea08c81f977358cfa4118a3"

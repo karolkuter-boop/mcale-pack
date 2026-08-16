@@ -1,6 +1,6 @@
-name = "sodium-neoforge-0.8.13-beta.2+mc1.21.1"
+name = "Sodium 0.8.13-beta.2 for NeoForge 1.21.1"
 filename = "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar"

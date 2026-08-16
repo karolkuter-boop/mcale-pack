@@ -21,6 +21,10 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
+file = "config/iris.properties"
+hash = "da2f205e261108db203971fb03a240dcaa62d3cd4bff4adc0798922928c0eea6"
+
+[[files]]
 file = "config/neofftv-client.toml"
 hash = "c8076dda8e59e26d9a902e138e825027c0e8a97b533d609973dc2699fc51607b"
 
@@ -93,6 +97,11 @@ hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "758904af7f57a46899018b4d792b969706c32a3134b3215e7ec0a5c2718304f1"
+metafile = true
+
+[[files]]
 file = "mods/neofftv-rc122.pw.toml"
 hash = "ba99094fe6821d1b4ef4d34b883ecf7fd1a484c092bbd5c926b84e9fc17adb7c"
 metafile = true
@@ -105,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/simulatedcoasters-0-1-4.pw.toml"
 hash = "65cbff1fa0891dce6560b36752994a1e8bf3d0e9f41a0195db33a808ff70d2ad"
+metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
+hash = "7414fa5cce92d15e96871d1734f6d7f4e1ea9c8ec89fbebd4d1c98c08b023932"
 metafile = true
 
 [[files]]
@@ -137,6 +151,15 @@ hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 [[files]]
 file = "servers.dat"
 hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip.txt"
+hash = "47b94578a5e85e3b74b24d80a56f6a0b126129cb80a738ca2453192ccd7d50da"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"

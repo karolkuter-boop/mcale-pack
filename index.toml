@@ -102,8 +102,8 @@ hash = "758904af7f57a46899018b4d792b969706c32a3134b3215e7ec0a5c2718304f1"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-rc125.pw.toml"
-hash = "17467a57817d963fcbcaf5907375249c1fab513446e54b6189c245c3872cce0c"
+file = "mods/neofftv-rc126.pw.toml"
+hash = "21c1a35cfa6106c2382afb1a9f54b441944e574b0910cb6745f02369f636e10f"
 metafile = true
 
 [[files]]

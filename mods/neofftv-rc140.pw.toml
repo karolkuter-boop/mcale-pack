@@ -3,6 +3,6 @@ filename = "neofftv-1.42.49-rc140.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/PLACEHOLDER_SHA/mods/neofftv-1.42.49-rc140.jar"
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/432d4b417398e54cad60451b01e220a12456b8e6/mods/neofftv-1.42.49-rc140.jar"
 hash-format = "sha256"
 hash = "81ad1d46c57fbc8019632d7670ab05b5e3948c45255cb65be4a50cc54c0a6a27"

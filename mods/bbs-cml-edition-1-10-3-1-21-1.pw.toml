@@ -1,0 +1,8 @@
+name = "bbs-cml-edition-1.10.3-1.21.1"
+filename = "bbs-cml-edition-1.10.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/orQP37wm/versions/TjyRrBVx/bbs-cml-edition-1.10.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "8d813f98a7451f1d8a08162f9fd2660aef0255fa7d08d91a233a5edf8f412b10b0ad1579ab1a8c5e42533cedb61cb151767c7d53506c47850eeb605b04ec88d9"

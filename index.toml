@@ -190,8 +190,8 @@ hash = "ffb3d5b6ce522b2fcc0e94072f8960cd19c376bf6a66c38410352ed1686ec0e0"
 metafile = true
 
 [[files]]
-file = "mods/bbs-cml-edition-2-0-beta-1-1-21-1.pw.toml"
-hash = "680265d20e90503107d3015b659d4b7b69c427f816301694971044f265e72bb0"
+file = "mods/bbs-cml-edition-1-10-3-1-21-1.pw.toml"
+hash = "2c39096205c2d9ec6a378fe2ccbf5c69349d2270931ee144c4cd3c9e5af119dd"
 metafile = true
 
 [[files]]
@@ -200,8 +200,8 @@ hash = "cb2444f11b939bd307e21a1e0c8b0b10833ca00a886c7f36e4fcfb7c54a38c05"
 metafile = true
 
 [[files]]
-file = "mods/connector-2-0-0-beta-16-1-21-1-full.pw.toml"
-hash = "ebf9495cd0a006fd02f9d1f56f3df4d14fa7023a6dc6dacbcef430cdb7b1d45f"
+file = "mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml"
+hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
 metafile = true
 
 [[files]]
@@ -238,8 +238,8 @@ hash = "1c6ad71fa764b50694a5789c398aae2267cdf78d601249e5f7fe36567c88971e"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0-116-15-2-3-1-1-21-1.pw.toml"
-hash = "a454ed83d887eb201a9a207a274a8591edaeb766a49321e8dd6fdc38320cbfb0"
+file = "mods/forgified-fabric-api-0-116-15-2-3-4-1-21-1.pw.toml"
+hash = "58d77af58f6933f5b7f11be340c24f0a1435c1242d5b1bece117f2136adb9ce9"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "9766a4d827382767047c1f085291ceb716ef82f5730c858da584b1cd2338f446"
+hash = "fd352fd3d0069bb3e7dc4a476493176ec87310e9d777f72b089bb5dc17b2fc13"
 metafile = true
 
 [[files]]

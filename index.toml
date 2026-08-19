@@ -82,6 +82,16 @@ hash = "ffb3d5b6ce522b2fcc0e94072f8960cd19c376bf6a66c38410352ed1686ec0e0"
 metafile = true
 
 [[files]]
+file = "mods/bbs-cml-edition-1-10-3-1-21-1.pw.toml"
+hash = "2c39096205c2d9ec6a378fe2ccbf5c69349d2270931ee144c4cd3c9e5af119dd"
+metafile = true
+
+[[files]]
+file = "mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml"
+hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
+metafile = true
+
+[[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
 hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
 metafile = true
@@ -97,8 +107,23 @@ hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
+file = "mods/flashback-0-39-7-for-mc1-21-1.pw.toml"
+hash = "1c6ad71fa764b50694a5789c398aae2267cdf78d601249e5f7fe36567c88971e"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api-0-116-15-2-3-4-1-21-1.pw.toml"
+hash = "58d77af58f6933f5b7f11be340c24f0a1435c1242d5b1bece117f2136adb9ce9"
+metafile = true
+
+[[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
 hash = "758904af7f57a46899018b4d792b969706c32a3134b3215e7ec0a5c2718304f1"
+metafile = true
+
+[[files]]
+file = "mods/neofftv.pw.toml"
+hash = "8876f7724a03849e26aca800112ed58fc7677fced22daa2ccb46f7d2cb0efb7c"
 metafile = true
 
 [[files]]

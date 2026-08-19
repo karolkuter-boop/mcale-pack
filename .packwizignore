@@ -16,7 +16,7 @@ mods/*
 !mods/create-1-21-1-6-0-10.pw.toml
 !mods/create-aeronautics-bundled-1-21-1-1-3-0.pw.toml
 !mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml
-!mods/neofftv-rc140.pw.toml
+!mods/neofftv.pw.toml
 !mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml
 !mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml
 !mods/sable-neoforge-1-21-1-2-0-3.pw.toml
@@ -24,6 +24,10 @@ mods/*
 !mods/uilib-1-0-1-1-21-1-neoforge.pw.toml
 !mods/worldedit-mod-7-3-8.pw.toml
 !mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml
+!mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml
+!mods/forgified-fabric-api-0-116-15-2-3-4-1-21-1.pw.toml
+!mods/bbs-cml-edition-1-10-3-1-21-1.pw.toml
+!mods/flashback-0-39-7-for-mc1-21-1.pw.toml
 config/*
 !config/aeronautics-server.toml
 !config/create-client.toml

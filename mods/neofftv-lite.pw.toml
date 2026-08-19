@@ -1,0 +1,8 @@
+name = "NeoFFTV"
+filename = "neofftv-1.42.49-rc181.jar"
+side = "both"
+
+[download]
+url = "PLACEHOLDER"
+hash-format = "sha256"
+hash = "d66aad5aa891c606d9b0e188d4ab6b2d59a6d86590b71a68d495e2709c95d966"

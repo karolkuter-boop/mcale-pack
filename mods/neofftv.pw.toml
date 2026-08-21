@@ -1,8 +1,8 @@
 name = "NeoFFTV"
-filename = "neofftv-1.42.50-rc201.jar"
+filename = "neofftv-1.42.50-rc202.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/a4645757b116061cb140ee0ddbcb50d502e22515/mods/neofftv-1.42.50-rc201.jar"
+url = "PLACEHOLDER"
 hash-format = "sha256"
-hash = "da6af95667dcd93ea7300aa29c448b6ee04b5877872d616f7316370f90bc49a9"
+hash = "fe27877e03ccf1b526d35293c42f31b40909490373bcf1904517d1e1664c2d70"

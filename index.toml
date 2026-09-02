@@ -92,16 +92,6 @@ hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
 metafile = true
 
 [[files]]
-file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-bundled-1-21-1-1-3-0.pw.toml"
-hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
 hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
@@ -124,16 +114,6 @@ metafile = true
 [[files]]
 file = "mods/neofftv.pw.toml"
 hash = "613944e8706aa1fd0ea553c4c5f1040a40389ed72c5bb120e5ebe7950b01ed85"
-metafile = true
-
-[[files]]
-file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
-hash = "807679f96b1034886a28750e27d0edf64018e7f19ab46ec9d6731848f0da30e7"
-metafile = true
-
-[[files]]
-file = "mods/simulatedcoasters-0-1-4.pw.toml"
-hash = "65cbff1fa0891dce6560b36752994a1e8bf3d0e9f41a0195db33a808ff70d2ad"
 metafile = true
 
 [[files]]

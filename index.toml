@@ -181,10 +181,6 @@ file = "icon.png"
 hash = "931039132a4278f56deb79b0071e363faeb9b302d427fb8a7d2c964de1d0302c"
 
 [[files]]
-file = "mods/aeronautics_flashback-1.0.2.jar"
-hash = "601954eb297b9c9d60039e79ff742d862c4d644ac793b55f66e7abb069f925b8"
-
-[[files]]
 file = "mods/architectury-13-0-11-neoforge.pw.toml"
 hash = "ffb3d5b6ce522b2fcc0e94072f8960cd19c376bf6a66c38410352ed1686ec0e0"
 metafile = true
@@ -203,20 +199,6 @@ metafile = true
 file = "mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml"
 hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
 metafile = true
-
-[[files]]
-file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-bundled-1-21-1-1-3-0.pw.toml"
-hash = "0b4b903d63a1524115a41c4bd350c76e5cffe20c7938f50c1901d7bb2a72871f"
-metafile = true
-
-[[files]]
-file = "mods/create_flashback-1.0.2.jar"
-hash = "40d7df393352d884af3b53904c5451061c8a5d13525a28d50cb49cbb02c4dedc"
 
 [[files]]
 file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
@@ -263,16 +245,6 @@ hash = "f6a390346875139101102bed972ea2a6015bac4cb55a568353e79a7c8e7a2278"
 metafile = true
 
 [[files]]
-file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
-hash = "807679f96b1034886a28750e27d0edf64018e7f19ab46ec9d6731848f0da30e7"
-metafile = true
-
-[[files]]
-file = "mods/simulatedcoasters-0-1-4.pw.toml"
-hash = "65cbff1fa0891dce6560b36752994a1e8bf3d0e9f41a0195db33a808ff70d2ad"
-metafile = true
-
-[[files]]
 file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
 hash = "c74f5fd022c733cc29183536fdf2c5a79b1e5bbd1434c4b0a544a1b079e816e3"
 metafile = true
@@ -290,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/uilib-1-0-1-1-21-1-neoforge.pw.toml"
 hash = "1da44fa3e6295c2e22ff17b7d555547a10c2d695345fa4cdf54134ef0c0fa4c5"
+metafile = true
+
+[[files]]
+file = "mods/veil-lib.pw.toml"
+hash = "ffd732bbca92f0146b634b0f78e8aefe5e01eae606b43c01f240bcb0b7a16336"
 metafile = true
 
 [[files]]

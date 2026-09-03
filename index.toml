@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "4b58425c89cc1a36397b9a3c62c2a5d4383099f11cf3a2491f6437f89cb74ee5"
 
 [[files]]
+file = "config/bbs/settings/bbs.json"
+hash = "8972650aa9eb35f4bdad0be39caad1f9b6179741e3d891b9053050c89a8052cf"
+
+[[files]]
 file = "config/iris.properties"
 hash = "26accc4fdd7ae48e0c4ae8471717b9bc48294272f5e50886cebcca39b846b10d"
 

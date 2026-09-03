@@ -13,6 +13,8 @@ Lekka, automatycznie aktualizowana instancja Prism do odcinka „Park wodny” i
 
 Paczka nie zawiera Veila, Sable, Create Aeronautics ani Simulated Coasters. Efekty NeoFFTV korzystają z publicznego renderingu Minecrafta i NeoForge, aby nie przejmować framebufferów Iris/Flashbacka ani potoku Sodium.
 
+Photon 1.3b jest domyślnie włączony. Paczka wyłącza wyłącznie `shader_curves` w BBS, ponieważ ta funkcja zamienia stałe shaderpacka na uniformy i uniemożliwia kompilację Photona w Iris; edytor, modele, nagrywanie i pozostałe funkcje BBS pozostają aktywne.
+
 ## Adres aktualizacji Packwiz
 
 ```text

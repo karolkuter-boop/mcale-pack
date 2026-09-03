@@ -1,4 +1,4 @@
-#NeoFFTV Rollercoaster Tycoon - preset odcinka: chmury jak w vanilla (blocky), bez wolumetrycznych
+# NeoFFTV Waterpark Tycoon - chmury jak w vanilla (blocky), bez wolumetrycznych
 BLOCKY_CLOUDS=true
 CLOUDS_CUMULUS=false
 CLOUDS_ALTOCUMULUS=false

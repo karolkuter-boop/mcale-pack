@@ -6,7 +6,7 @@ hash = "4b58425c89cc1a36397b9a3c62c2a5d4383099f11cf3a2491f6437f89cb74ee5"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f87103590e17e41b64e6eac6514db1ad39026505de95bc15e9e64905066ceceb"
+hash = "26accc4fdd7ae48e0c4ae8471717b9bc48294272f5e50886cebcca39b846b10d"
 
 [[files]]
 file = "config/neofftv-client.toml"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "47b94578a5e85e3b74b24d80a56f6a0b126129cb80a738ca2453192ccd7d50da"
+hash = "6c95a20ed9f5ad0ace085a62bfbfbcc067fa497674ff04924da84e693034150e"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"

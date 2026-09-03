@@ -76,7 +76,7 @@
 	cameraWiggleSprintMultiplier = 1.35
 
 [magicVision]
-	enableVeilEffects = false
+	enableNativeEffects = true
 	enableArmyTacticalOverlay = true
 	enablePrisonImmersion = true
 	prisonSafeRender = false

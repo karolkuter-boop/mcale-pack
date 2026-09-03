@@ -17,7 +17,6 @@ mods/*
 !mods/neofftv.pw.toml
 !mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml
 !mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml
-!mods/veil-lib.pw.toml
 !mods/uilib-1-0-1-1-21-1-neoforge.pw.toml
 !mods/worldedit-mod-7-3-8.pw.toml
 !mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml

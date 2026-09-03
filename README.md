@@ -1,30 +1,22 @@
-# NeoFFTV Rollercoaster Tycoon Lite
+# NeoFFTV Waterpark Tycoon Lite
 
-Minimalny klient do polaczenia z `mcale.csrv.gg`.
+Lekka, automatycznie aktualizowana instancja Prism do odcinka „Park wodny” i serwera `mcale.csrv.gg`.
 
-Aktualny kandydat: NeoFFTV `1.42.49-rc96`. Zawiera grywalny tryb Tycoon,
-przewijane centrum zarzadzania, czytelna mape atrakcji, funkcjonalne budynki,
-wyrazna progresje predkosci i skladu, przejazdy gracza na tych samych fizycznych
-pociagach co goscie oraz skalowalny tlum do 256 gosci tworzacych pary i
-zroznicowane wycieczki. RC84 usuwa legacy sprzeglo, silnik i lampe ze skrajni
-toru, przenosi osprzet do budki operatora, stabilizuje natywne sklady i kieruje
-pelne czteroosobowe kohorty na perony bez nadpisywania wagonow ani budowli ekipy.
-RC96 dodaje czytelny HUD przejscia, suwaki operatorskie, przedmioty i naprawy
-sklepu, kompletna obsluge eventu influencerow oraz walidacje zamknietych petli
-torow. Ochrona budowniczych nadal blokuje automatyczne przebudowy przejetej mapy.
+- Minecraft 1.21.1
+- NeoForge 21.1.248
+- NeoFFTV 1.42.50-rc225
+- Flashback 0.39.7
+- Iris 1.8.14 beta 1
+- Sodium 0.8.13 beta 2
+- WorldEdit, UILib i Architectury
+- Distant Horizons oraz narzędzia nagraniowe klienta
 
-Rdzen serwerowy tworza NeoFFTV, Create, Create Aeronautics Bundled, Sable,
-Simulated Coasters, WorldEdit, UILib i Architectury. Paczka klienta zawiera
-tez zatwierdzone narzedzia wydajnosciowe, nagraniowe i produkcyjne.
-Nie zawiera Yuushya, FancyMenu ani ich dodatkow.
+Paczka nie zawiera Veila, Sable, Create Aeronautics ani Simulated Coasters. Efekty NeoFFTV korzystają z publicznego renderingu Minecrafta i NeoForge, aby nie przejmować framebufferów Iris/Flashbacka ani potoku Sodium.
 
-Zawiera Distant Horizons (LOD renderer terenu, wersja 3.2.0-b, side "both" —
-dziala tez na serwerze mcale.csrv.gg i streamuje LODy do klientow), zeby przy
-nagraniach bylo widac caly park (~500x460 blokow) z daleka, gdy ktos po nim
-chodzi. Domyslny zasieg LOD to 256 chunkow, jakosc umiarkowana pod nagrania.
-
-Packwiz URL:
+## Adres aktualizacji Packwiz
 
 ```text
 https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/refs/heads/lite/pack.toml
 ```
+
+Udostępniany bootstrap Prism śledzi tę gałąź, więc po każdej publikacji pobiera bieżącą wersję paczki bez ponownego importowania instancji.

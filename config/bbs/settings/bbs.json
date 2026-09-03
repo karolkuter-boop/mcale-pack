@@ -212,7 +212,7 @@
         "sensitivity": 1.0
     },
     "shader_curves": {
-        "enabled": true
+        "enabled": false
     },
     "tutorials": {
         "cursor": false,

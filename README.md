@@ -13,6 +13,8 @@ Pełna paczka Packwiz dla odcinka „Minecraft, ale to Park wodny”.
 
 Paczka nie zawiera Veila, Sable, Create Aeronautics ani Simulated Coasters. NeoFFTV rysuje własne efekty przez publiczne API Minecrafta i NeoForge, bez przejmowania framebufferów używanych przez Iris, Flashback i Sodium.
 
+Photon 1.3b jest domyślnie włączony. Paczka wyłącza wyłącznie `shader_curves` w BBS, ponieważ ta funkcja zamienia stałe shaderpacka na uniformy i uniemożliwia kompilację Photona w Iris; edytor, modele, nagrywanie i pozostałe funkcje BBS pozostają aktywne.
+
 ## Adres aktualizacji
 
 ```text

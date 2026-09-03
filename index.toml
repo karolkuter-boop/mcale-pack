@@ -6,7 +6,7 @@ hash = "db9644887bf2ecc0f0c3cb7838a91cf9f4e3d3688e5d186673c480ac2a2dfc62"
 
 [[files]]
 file = "config/bbs/settings/bbs.json"
-hash = "f59148c74a3372d3f53ec3b316772d002134241de62512fe3c69986ad9b43efb"
+hash = "347a758c7104f89bfb1db1d5f38c8d9174607aa8eb40bc55cc13167001112346"
 
 [[files]]
 file = "config/bbs/settings/keybinds.json"
@@ -31,6 +31,10 @@ hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
 [[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/iris.properties"
+hash = "f0cc02698ac08fd135f38af17e5d54d5ee91a3cf8aa2620aa0d1b0d1caeeb12f"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -185,6 +189,11 @@ hash = "58d77af58f6933f5b7f11be340c24f0a1435c1242d5b1bece117f2136adb9ce9"
 metafile = true
 
 [[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "758904af7f57a46899018b4d792b969706c32a3134b3215e7ec0a5c2718304f1"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
 hash = "e97e974617830ed7d27dbad22e7621867b0d7a1a978adc162d9e9470715a89ed"
 metafile = true
@@ -249,6 +258,15 @@ hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 [[files]]
 file = "servers.dat"
 hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip.txt"
+hash = "6c95a20ed9f5ad0ace085a62bfbfbcc067fa497674ff04924da84e693034150e"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"

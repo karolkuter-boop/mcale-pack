@@ -1,0 +1,8 @@
+# NeoFFTV Waterpark Tycoon - chmury jak w vanilla (blocky), bez wolumetrycznych
+BLOCKY_CLOUDS=true
+CLOUDS_CUMULUS=false
+CLOUDS_ALTOCUMULUS=false
+CLOUDS_CIRRUS=false
+CLOUDS_CUMULUS_CONGESTUS=false
+CLOUDS_NOCTILUCENT=false
+CLOUD_SHADOWS=true

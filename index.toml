@@ -6,11 +6,11 @@ hash = "4b58425c89cc1a36397b9a3c62c2a5d4383099f11cf3a2491f6437f89cb74ee5"
 
 [[files]]
 file = "config/iris.properties"
-hash = "da2f205e261108db203971fb03a240dcaa62d3cd4bff4adc0798922928c0eea6"
+hash = "f87103590e17e41b64e6eac6514db1ad39026505de95bc15e9e64905066ceceb"
 
 [[files]]
 file = "config/neofftv-client.toml"
-hash = "c8076dda8e59e26d9a902e138e825027c0e8a97b533d609973dc2699fc51607b"
+hash = "ec29fe58b1a3e7523ef830bdbb2df05eda9d67bca827453bd566b4e680073b3f"
 
 [[files]]
 file = "config/neofftv-common.toml"
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/veil-lib.pw.toml"
-hash = "ffd732bbca92f0146b634b0f78e8aefe5e01eae606b43c01f240bcb0b7a16336"
+hash = "62ee09287731c62a94eea0d0e46aa534f62c8c07fbe0b2012bc939f707c7e8c2"
 metafile = true
 
 [[files]]

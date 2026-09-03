@@ -38,11 +38,11 @@ hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 
 [[files]]
 file = "config/neofftv-client.toml"
-hash = "c8076dda8e59e26d9a902e138e825027c0e8a97b533d609973dc2699fc51607b"
+hash = "b33a40fe09a8c8d11d36828ea5b7f998fef14729699bd501c26650dae5304362"
 
 [[files]]
 file = "config/neofftv-common.toml"
-hash = "ebe907c3fe150bc6b589801ec6cbcd9b5601e5ebcc9477756cfcaf13ed58ce34"
+hash = "778e7aee481ee0862e6ef1f45c164c2a88ce238dac2dbb1b073c7252e2953c28"
 
 [[files]]
 file = "config/neofftv_magic_vision.json"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "e2f60c984186cec3f8874ddc9892662275461a89b2fea4670044ba9c922d3252"
+hash = "7f424ad811d077c50f6d3ed8ad100315f587cc5ffc27ef521a3436f96f6001e4"
 metafile = true
 
 [[files]]
@@ -222,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/uilib-1-0-1-1-21-1-neoforge.pw.toml"
 hash = "1da44fa3e6295c2e22ff17b7d555547a10c2d695345fa4cdf54134ef0c0fa4c5"
-metafile = true
-
-[[files]]
-file = "mods/veil-lib.pw.toml"
-hash = "ffd732bbca92f0146b634b0f78e8aefe5e01eae606b43c01f240bcb0b7a16336"
 metafile = true
 
 [[files]]

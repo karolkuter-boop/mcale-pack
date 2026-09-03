@@ -1,22 +1,17 @@
-# mcale-pack
+# NeoFFTV Waterpark Tycoon
 
-Publiczna paczka Packwiz dla odcinka **Minecraft, ale to Rollercoaster Tycoon**.
+Pełna paczka Packwiz dla odcinka „Minecraft, ale to Park wodny”.
 
 - Minecraft 1.21.1
 - NeoForge 21.1.248
-- NeoFFTV 1.42.49-rc42
-- Create 6.0.10
-- Create: Coasters Simulated 0.1.4
-- Sable 2.0.3
-- WorldEdit 7.3.8
-- BBS, Flashback i narzędzia nagraniowe po stronie klienta
+- NeoFFTV 1.42.50-rc225
+- Flashback 0.39.7
+- Iris 1.8.14 beta 1
+- Sodium 0.8.13 beta 2
+- WorldEdit, UILib i Architectury
+- BBS, Distant Horizons oraz narzędzia nagraniowe klienta
 
-Packwiz pobiera 27 publicznych plików bezpośrednio z Modrinth. Cztery własne pliki FFTV są
-przechowywane w tym repozytorium. `index.toml` i hash w `pack.toml` są generowane przez
-`packwiz refresh`.
-
-Paczka nie zawiera Yuushya, FancyMenu ani ich dodatkow. Zawiera BBS i Flashback
-dla ekipy nagraniowej oraz wspolne waypointy Xaero dla `mcale.csrv.gg`.
+Paczka nie zawiera Veila, Sable, Create Aeronautics ani Simulated Coasters. NeoFFTV rysuje własne efekty przez publiczne API Minecrafta i NeoForge, bez przejmowania framebufferów używanych przez Iris, Flashback i Sodium.
 
 ## Adres aktualizacji
 
@@ -30,17 +25,4 @@ Instancja Prism uruchamia przed startem:
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g --side client https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/main/pack.toml
 ```
 
-## Aktualizacja
-
-Generator znajduje się w repo NeoFFTV:
-
-```powershell
-python tools/package/build-rollercoaster-packwiz.py `
-  --source "$env:LOCALAPPDATA/Temp/neofftv-rollercoaster-pack-1.42.48/minecraft" `
-  --target "C:/AI/worktrees/mcale-pack-rollercoaster" `
-  --version 1.42.48 `
-  --export "$env:USERPROFILE/Downloads/NeoFFTV-Rollercoaster-Tycoon-1.42.48/NeoFFTV-Rollercoaster-Tycoon-1.42.48-Packwiz.mrpack"
-```
-
-Po zmianie zawartości zawsze uruchom `packwiz refresh` i sprawdź eksport `.mrpack` przed
-publikacją.
+Po zmianie zawartości należy uruchomić `packwiz refresh`, zweryfikować manifest oraz próbnie uruchomić klienta.

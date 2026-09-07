@@ -3,6 +3,6 @@ filename = "neofftv-1.42.50-rc234-recording.46.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/7fba58bf6c5eb2b345d764d24242b56c98f942bb/mods/neofftv-1.42.50-rc234-recording.46.jar"
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/fa1e62fe74267107e902c34d7db09e32db2c7034/mods/neofftv-1.42.50-rc234-recording.46.jar"
 hash-format = "sha256"
 hash = "1b0e99a04e26c744dcfe59d3c8e5e20fd68cedac2035903a856055c84ad9c527"

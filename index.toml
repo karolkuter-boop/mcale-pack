@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "5be58d7e54b3efeaa2c246c49f89db654e9371adb5df9a5b722f58650c8dd0c8"
+hash = "764c67bf190b122cd756b88abdbe42c48f3f1bf20b54e7fabaaef4413395c9b0"
 metafile = true
 
 [[files]]

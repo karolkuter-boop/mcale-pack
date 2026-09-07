@@ -219,16 +219,6 @@ hash = "c74f5fd022c733cc29183536fdf2c5a79b1e5bbd1434c4b0a544a1b079e816e3"
 metafile = true
 
 [[files]]
-file = "mods/spiffyhud-neoforge-3-1-2-mc-1-21-1.pw.toml"
-hash = "3cc27c12288ef0052e51310f45ac0dfeff051f37e4cadb067e9734582ced9517"
-metafile = true
-
-[[files]]
-file = "mods/ssrd-1-8-5-1-21-1.pw.toml"
-hash = "76ea3fb3216f5cf2f446ab913dd358b4d8650de6d384938b1f8e960f2f28f468"
-metafile = true
-
-[[files]]
 file = "mods/uilib-1-0-1-1-21-1-neoforge.pw.toml"
 hash = "1da44fa3e6295c2e22ff17b7d555547a10c2d695345fa4cdf54134ef0c0fa4c5"
 metafile = true

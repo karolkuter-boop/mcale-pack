@@ -28,3 +28,5 @@ Instancja Prism uruchamia przed startem:
 ```
 
 Po zmianie zawartości należy uruchomić `packwiz refresh`, zweryfikować manifest oraz próbnie uruchomić klienta.
+
+Main recording.37: usunięto stare dodatki SSRD (wymaga Sable) i SpiffyHUD (wymaga FancyMenu/Konkrete). Park korzysta z własnego HUD-u. Sable pozostaje wyłączony, aby zachować zgodność z narzędziami do nagrań.

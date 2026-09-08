@@ -4,7 +4,7 @@ Lekka, automatycznie aktualizowana instancja Prism do odcinka „Park wodny” i
 
 - Minecraft 1.21.1
 - NeoForge 21.1.248
-- NeoFFTV 1.42.54-rc234-recording.54
+- NeoFFTV 1.42.55-rc234-recording.55
 - Flashback 0.39.7
 - Iris 1.8.14 beta 1
 - Sodium 0.8.13 beta 2

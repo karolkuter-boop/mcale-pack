@@ -1,12 +1,12 @@
 name = "NeoFFTV Waterpark Tycoon"
 author = "FFTV"
-version = "1.42.53-rc234-recording.53"
+version = "1.42.54-rc234-recording.54"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "433d926ae0dbe524af81e156f182d16a790d9f9cc7c4e7704c0eff4112cf89a2"
+hash = "4573d2518a022e29ca86c1e5ae1164f91bbced3e177ce109ea8665e62afd59e4"
 
 [versions]
 minecraft = "1.21.1"

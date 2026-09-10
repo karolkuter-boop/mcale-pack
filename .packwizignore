@@ -24,6 +24,7 @@ mods/*
 !mods/forgified-fabric-api-0-116-15-2-3-4-1-21-1.pw.toml
 !mods/bbs-cml-edition-1-10-3-1-21-1.pw.toml
 !mods/flashback-0-39-7-for-mc1-21-1.pw.toml
+!mods/ok-zoomer-neo-10-0-0-beta-13.pw.toml
 config/*
 !config/bbs
 config/bbs/*
@@ -33,7 +34,8 @@ config/bbs/settings/*
 !config/DistantHorizons.toml
 !config/iris.properties
 !config/neofftv-client.toml
-!config/neofftv-common.toml
+# config/neofftv-common.toml celowo NIE jest w paczce - wybor odcinka (activeEpisode)
+# i nazwa gracza zyja w instancji, zeby aktualizacja packa ich nie nadpisala.
 !config/neoforge-client.toml
 !config/neoforge-common.toml
 !config/neoforge-server.toml

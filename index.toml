@@ -17,10 +17,6 @@ file = "config/neofftv-client.toml"
 hash = "b33a40fe09a8c8d11d36828ea5b7f998fef14729699bd501c26650dae5304362"
 
 [[files]]
-file = "config/neofftv-common.toml"
-hash = "778e7aee481ee0862e6ef1f45c164c2a88ce238dac2dbb1b073c7252e2953c28"
-
-[[files]]
 file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 
@@ -77,7 +73,12 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "478eae64cbfd1db83020456dfbf4896ad3e1e79c8cc1813fea466959408dad8f"
+hash = "683daacdbf2d558958d17a6d7da690b210453e51af8c963189180accf5e58bee"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-neo-10-0-0-beta-13.pw.toml"
+hash = "02da51efd14bf4526af2263490f46606381e2081f1893f4ddf307a9c5c7c1983"
 metafile = true
 
 [[files]]
@@ -114,7 +115,7 @@ hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 
 [[files]]
 file = "servers.dat"
-hash = "1e5aaa761c59b594c19ebfabaca9f22d556194851fe2c09cf394a52d1aa06b2e"
+hash = "a6aa5a431f27c0958170f56c94b58493ef887f327783079b57994e6e44352d2f"
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"

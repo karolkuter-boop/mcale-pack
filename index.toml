@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "14876413836f190e6acc15ae65d7afc47e7c13d42feb91c68417aeb9e5be165c"
+hash = "aea2975f3c22945983ab242bf867096e695d269d45b6a227deac981a0fcad6d3"
 
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"

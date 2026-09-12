@@ -10,7 +10,7 @@ hash = "8972650aa9eb35f4bdad0be39caad1f9b6179741e3d891b9053050c89a8052cf"
 
 [[files]]
 file = "config/iris.properties"
-hash = "26accc4fdd7ae48e0c4ae8471717b9bc48294272f5e50886cebcca39b846b10d"
+hash = "7a32de3450d9a2760036ab64aa8124ff706c6cd08f988eddbe09b4147fb8940a"
 
 [[files]]
 file = "config/neofftv-client.toml"
@@ -49,11 +49,6 @@ metafile = true
 [[files]]
 file = "mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml"
 hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
-hash = "ded40436505cddb0814f9eb16f37cc516c01b06fa44bc94e44df563efa4d6b57"
 metafile = true
 
 [[files]]
@@ -125,6 +120,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
 hash = "6c95a20ed9f5ad0ace085a62bfbfbcc067fa497674ff04924da84e693034150e"
+
+[[files]]
+file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
+hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
+metafile = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"

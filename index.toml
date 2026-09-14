@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
-hash = "758904af7f57a46899018b4d792b969706c32a3134b3215e7ec0a5c2718304f1"
+hash = "a82c0b0b7619654fb55c4f84fbedc45f5fc471138113d9eb5cfeea9846fd99b2"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
-hash = "7414fa5cce92d15e96871d1734f6d7f4e1ea9c8ec89fbebd4d1c98c08b023932"
+hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
 metafile = true
 
 [[files]]

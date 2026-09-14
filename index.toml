@@ -105,6 +105,10 @@ file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"
 hash = "882a78f2e31d9ce19527ead92491f481a305ac4bd919d5a1925bf4bdc5af0901"
 
 [[files]]
+file = "resourcepacks/neofftv-audio-defaults/assets/neofftv/sounds.json"
+hash = "20eefbfbd61247ea83059c90ce145e135ac68d1f121a16463e76eeb0def17166"
+
+[[files]]
 file = "resourcepacks/neofftv-audio-defaults/pack.mcmeta"
 hash = "88e2d186c8984d893646b0ec9016f71962bdf21de2d04e41b2fad079f9f55765"
 

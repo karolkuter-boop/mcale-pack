@@ -1,6 +1,6 @@
 //waypoints config options
 usingMultiworldDetection:false
-ignoreServerLevelId:true
+ignoreServerLevelId:false
 defaultMultiworldId:mw-hospitals
 teleportationEnabled:true
 usingDefaultTeleportCommand:true

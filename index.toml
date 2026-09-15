@@ -131,5 +131,21 @@ hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
 metafile = true
 
 [[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/config.txt"
+hash = "d01e03ebcf6d31d7fe337213a82df0a5e4222d5d9af973e279aa35fe32b97c22"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw-hospitals.txt"
+hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"
+
+[[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"
 hash = "1486ba56c46340ff41f1c4da71ed131bf7ee5f926ea08c81f977358cfa4118a3"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/config.txt"
+hash = "d01e03ebcf6d31d7fe337213a82df0a5e4222d5d9af973e279aa35fe32b97c22"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%0/mw-hospitals.txt"
+hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"

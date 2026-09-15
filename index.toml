@@ -101,6 +101,14 @@ file = "options.txt"
 hash = "aea2975f3c22945983ab242bf867096e695d269d45b6a227deac981a0fcad6d3"
 
 [[files]]
+file = "packwiz-update.cmd"
+hash = "2a506a512b760f1236e1c5b31d1b80ae33dc82debdf5fe2debd4055d3911a6b9"
+
+[[files]]
+file = "packwiz-update.ps1"
+hash = "53792f7c42f965f703bfab7d4ce2ef9ec787e43d937da0ec9d91d7efbcc646a1"
+
+[[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"
 hash = "882a78f2e31d9ce19527ead92491f481a305ac4bd919d5a1925bf4bdc5af0901"
 

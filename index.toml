@@ -97,6 +97,10 @@ hash = "8799ecfb903aaddd95238b53a1a7f189b7c9947d3c19388e467c680caa2ce576"
 metafile = true
 
 [[files]]
+file = "neofftv-waypoints.json"
+hash = "b9576e3fbb2f391d8bfaf6029f5140f072d58d320bf3077ebdc39989c1ad6c6b"
+
+[[files]]
 file = "options.txt"
 hash = "aea2975f3c22945983ab242bf867096e695d269d45b6a227deac981a0fcad6d3"
 
@@ -106,7 +110,7 @@ hash = "2a506a512b760f1236e1c5b31d1b80ae33dc82debdf5fe2debd4055d3911a6b9"
 
 [[files]]
 file = "packwiz-update.ps1"
-hash = "53792f7c42f965f703bfab7d4ce2ef9ec787e43d937da0ec9d91d7efbcc646a1"
+hash = "a3111e7afa1c3498721fcca5f46f54f94a78663ec454342a4ccc7b47f967ebf6"
 
 [[files]]
 file = "resourcepacks/neofftv-audio-defaults/assets/minecraft/sounds.json"
@@ -139,29 +143,60 @@ hash = "721407712770adc0883025c7c990ad176e8f0b35884c2f777d40766496addd25"
 metafile = true
 
 [[files]]
+file = "sync-waypoints.ps1"
+hash = "288e4b31769ef99b907fa62e14e5ab941fd4c91cd7ffdc79bc10f82f16965990"
+
+[[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/config.txt"
-hash = "ac7c539eb51ff0c60dd4f333f61581a4feda4cc0f5a3c6feaf373d80df60b49d"
+hash = "8c71d731be5c74ec8a9a223477555293c690167f107e402e78b4f837494a9c66"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw$2_2.txt"
-hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"
+hash = "a116c71c39adf9e477e3fd679e4e646c2b0854738f53812f20fa5e32d63200ea"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw-hospitals_Szpitale.txt"
-hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"
+hash = "a116c71c39adf9e477e3fd679e4e646c2b0854738f53812f20fa5e32d63200ea"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw0,1,14_1.txt"
-hash = "1486ba56c46340ff41f1c4da71ed131bf7ee5f926ea08c81f977358cfa4118a3"
+hash = "3988b67a6d0ee619068e19b0d258bc8a5951e98d8315cd0ffa097b58cd2368d8"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$pizza/mw$2_2.txt"
+hash = "b34ca2340062755db2a1cd706bfaedf24488eaabe10f724fe8f7728cf4f9135a"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$pizza/mw-hospitals_Szpitale.txt"
+hash = "b34ca2340062755db2a1cd706bfaedf24488eaabe10f724fe8f7728cf4f9135a"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/config.txt"
-hash = "ac7c539eb51ff0c60dd4f333f61581a4feda4cc0f5a3c6feaf373d80df60b49d"
+hash = "8c71d731be5c74ec8a9a223477555293c690167f107e402e78b4f837494a9c66"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%0/mw$2_2.txt"
-hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"
+hash = "a116c71c39adf9e477e3fd679e4e646c2b0854738f53812f20fa5e32d63200ea"
+preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%0/mw-hospitals_Szpitale.txt"
-hash = "9a0b847b4e1eb657efae77aea06c203b60919d3833744f94adacbd1ea5016505"
+hash = "a116c71c39adf9e477e3fd679e4e646c2b0854738f53812f20fa5e32d63200ea"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$pizza/mw$2_2.txt"
+hash = "b34ca2340062755db2a1cd706bfaedf24488eaabe10f724fe8f7728cf4f9135a"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$pizza/mw-hospitals_Szpitale.txt"
+hash = "b34ca2340062755db2a1cd706bfaedf24488eaabe10f724fe8f7728cf4f9135a"
+preserve = true

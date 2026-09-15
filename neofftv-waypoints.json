@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "servers": [
+    "Multiplayer_mcale.csrv.gg",
+    "Multiplayer_n18.waw02.craftserve.com"
+  ],
+  "worldId": "mw-hospitals",
+  "worldName": "Szpitale",
+  "obsoleteRows": [
+    "waypoint:Punkt bazowy parku:PB:0:0:0:15:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Wejscie do parku:WE:0:0:0:4:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Plac glowny:PG:0:0:70:4:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Villager Express:VE:-100:0:70:5:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:SkyLoop:SL:100:0:70:3:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:SzymeqCoaster:SC:-100:0:204:6:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Lava Serpent:LS:100:0:204:14:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Zadra Tribute:ZT:-100:0:338:12:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Hyperion Tribute:HT:100:0:338:1:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Scena finalowa:SF:0:0:430:10:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Park konkurencji:PK:250:0:338:13:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Przystanek autokaru:PA:-64:0:-32:2:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Generator blackoutu:GB:96:-6:104:14:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Backstage:BS:260:0:-64:8:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kasa biletowa:KB:-10:0:34:4:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Sklep jedzenie:SJ:-22:0:74:6:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Sklep mud matcha:SM:0:0:78:5:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Sklep merch:ME:22:0:74:9:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Wielki szmaragd:WS:0:0:126:10:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kamera intro:KI:22:8:-28:11:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kamera zakup:KZ:10:4:72:11:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kamera szeroka:KS:0:70:300:11:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kamera final:KF:34:14:820:11:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Kamera miniatura:KM:28:9:112:11:false:0:gui.xaero_default:false:0:0:false",
+    "waypoint:Graybox:GX:6000:1:150:7:false:0:gui.xaero_default:false:0:0:false"
+  ],
+  "worlds": [
+    {
+      "folder": "dim%0",
+      "dimension": "minecraft:overworld",
+      "set": "SZPITALE",
+      "rows": [
+        "waypoint:Szpital mobów:SM:-2588:69:2407:3:false:0:SZPITALE:true:0:LOCAL:false",
+        "waypoint:Szpital zwierząt:SZ:-80:83:100:10:false:0:SZPITALE:true:0:LOCAL:false"
+      ]
+    },
+    {
+      "folder": "dim%neofftv$pizza",
+      "dimension": "neofftv:pizza",
+      "set": "DEALLO PIZZA",
+      "rows": [
+        "waypoint:Foodtruck - wysypisko:FT:1155:81:1537:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Żabka - start odcinka:Z:1298:81:1626:10:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Mieszkanie Dealla:W:1319:81:1531:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:DEALLO PIZZA - mały lokal:P1:1511:81:1340:12:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:DEALLO PIZZA - restauracja:P2:1825:81:1153:4:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Wyposażenie i zatrudnianie:S:1412:81:1334:13:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Garaż - odbiór dostaw:G:1516:81:1435:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawa - Serowa 1:D:1405:81:1224:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawa - kamienica:D:1536:81:1238:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawa - biuro:D:1716:81:1435:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawa - Serowa 18:D:1812:81:1630:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Plac z fontanną:E:1725:81:1236:2:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Roboty drogowe - objazdy:R:1671:81:1386:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawa - Kanałowa 8:D:2032:81:1343:15:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Mieszkanie - mikrofalówka:M:1300:87:1495:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Piecowa 6 - piętro 3:D3:1531:93:1219:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Baza dostawców:BD:1850:81:1131:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Żabka - lodówki z pizzą:L:1295:81:1614:10:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dostawy - odbiór zamówień:D:1507:81:1321:12:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Motor dostawczy:M:1514:81:1345:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Zatoka - Szlamowa:S:1984:81:1340:10:false:0:DEALLO PIZZA:false:0:LOCAL:false"
+      ]
+    }
+  ]
+}

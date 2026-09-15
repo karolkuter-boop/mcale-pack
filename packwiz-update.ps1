@@ -58,6 +58,9 @@ try {
         & $java '-Dsun.net.client.defaultConnectTimeout=30000' '-Dsun.net.client.defaultReadTimeout=60000' '-jar' $bootstrap '-g' '--side' 'client' "https://raw.githubusercontent.com/$PackRepo/$ref/pack.toml"
         if ($LASTEXITCODE -ne 0) { throw "Aktualizacja Packwiz nie powiodla sie, kod $LASTEXITCODE." }
     } finally { Pop-Location }
+    # Run only after Packwiz finishes: these files may just have been updated.
+    # Xaero's own mutable files are merged, never overwritten with pack templates.
+    & (Join-Path $PSScriptRoot 'sync-waypoints.ps1') -MinecraftRoot $PSScriptRoot
     [IO.File]::WriteAllText((Join-Path $PSScriptRoot '.packwiz-last-success'),$ref+"`r`n")
     Write-Host '[NeoFFTV] Paczka aktualna. Uruchamiam Minecraft.'
     exit 0

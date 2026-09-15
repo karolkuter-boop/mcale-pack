@@ -1,15 +1,7 @@
-//waypoints config options
-usingMultiworldDetection:false
-ignoreServerLevelId:false
+connection:dim%0/mw-hospitals:dim%neofftv$pizza/mw-hospitals
 defaultMultiworldId:mw-hospitals
-teleportationEnabled:true
-usingDefaultTeleportCommand:true
-sortType:NONE
-sortReversed:false
-
-//other config options
-ignoreHeightmaps:false
-
-//dimension types (DO NOT EDIT)
 dimensionType:minecraft$overworld:minecraft$overworld
-//third-party waypoints
+dimensionType:neofftv$pizza:minecraft$overworld
+ignoreServerLevelId:true
+teleportationEnabled:true
+usingMultiworldDetection:false

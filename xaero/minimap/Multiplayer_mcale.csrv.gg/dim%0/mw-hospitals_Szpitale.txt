@@ -1,5 +1,6 @@
 sets:SZPITALE:gui.xaero_default
 # NeoFFTV managed set; personal sets are preserved.
+waypoint:Klinika Premium:KP:-2588:70:2573:1:false:0:SZPITALE:true:0:LOCAL:false
 waypoint:Wioska golema:WG:-2608:71:2300:6:false:0:SZPITALE:true:0:LOCAL:false
 waypoint:Szpital mobów:SM:-2588:69:2407:3:false:0:SZPITALE:true:0:LOCAL:false
 waypoint:Szpital zwierząt:SZ:-80:83:100:10:false:0:SZPITALE:true:0:LOCAL:false

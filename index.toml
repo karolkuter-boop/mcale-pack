@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "neofftv-waypoints.json"
-hash = "f70cbf1ff70afe046866f99e9730279977e494bd238093c950d15f134f7432d8"
+hash = "b1b6769829bfa55c89d9a1bf5b5f9f66afda58aa4fa11151bba3cea7f3dc19f6"
 
 [[files]]
 file = "options.txt"
@@ -153,12 +153,12 @@ preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw$2_2.txt"
-hash = "84cb76d688d737f86cc162e24e69fe2c5854a147a20836005af715117539c71e"
+hash = "8da6a60e88671f261d8eb1b3a017f5f692be6cc4c531ffcbc201631efdcb5ac2"
 preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%0/mw-hospitals_Szpitale.txt"
-hash = "84cb76d688d737f86cc162e24e69fe2c5854a147a20836005af715117539c71e"
+hash = "8da6a60e88671f261d8eb1b3a017f5f692be6cc4c531ffcbc201631efdcb5ac2"
 preserve = true
 
 [[files]]
@@ -183,12 +183,12 @@ preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%0/mw$2_2.txt"
-hash = "84cb76d688d737f86cc162e24e69fe2c5854a147a20836005af715117539c71e"
+hash = "8da6a60e88671f261d8eb1b3a017f5f692be6cc4c531ffcbc201631efdcb5ac2"
 preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%0/mw-hospitals_Szpitale.txt"
-hash = "84cb76d688d737f86cc162e24e69fe2c5854a147a20836005af715117539c71e"
+hash = "8da6a60e88671f261d8eb1b3a017f5f692be6cc4c531ffcbc201631efdcb5ac2"
 preserve = true
 
 [[files]]

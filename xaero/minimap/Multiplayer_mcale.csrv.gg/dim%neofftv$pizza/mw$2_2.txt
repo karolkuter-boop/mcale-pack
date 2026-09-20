@@ -3,8 +3,8 @@ sets:DEALLO PIZZA:gui.xaero_default
 waypoint:Foodtruck - wysypisko:FT:1155:81:1537:6:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Żabka - start odcinka:Z:1298:81:1626:10:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Mieszkanie Dealla:W:1319:81:1531:14:false:0:DEALLO PIZZA:false:0:LOCAL:false
-waypoint:DEALLO PIZZA - mały lokal:P1:1511:81:1340:12:false:0:DEALLO PIZZA:false:0:LOCAL:false
-waypoint:DEALLO PIZZA - restauracja:P2:1825:81:1153:4:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:Mały lokal:P1:1511:81:1340:12:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:Duża restauracja:P2:1825:81:1153:4:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Wyposażenie i zatrudnianie:S:1412:81:1334:13:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Garaż - odbiór dostaw:G:1516:81:1435:6:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Dostawa - Serowa 1:D:1405:81:1224:11:false:0:DEALLO PIZZA:false:0:LOCAL:false
@@ -14,6 +14,7 @@ waypoint:Dostawa - Serowa 18:D:1812:81:1630:11:false:0:DEALLO PIZZA:false:0:LOCA
 waypoint:Plac z fontanną:E:1725:81:1236:2:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Roboty drogowe - objazdy:R:1671:81:1386:14:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Dostawa - Kanałowa 8:D:2032:81:1343:15:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:DOKNESUSHI:D:1904:81:1342:15:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Mieszkanie - mikrofalówka:M:1300:87:1495:14:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Piecowa 6 - piętro 3:D3:1531:93:1219:11:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Baza dostawców:BD:1850:81:1131:6:false:0:DEALLO PIZZA:false:0:LOCAL:false
@@ -21,3 +22,6 @@ waypoint:Żabka - lodówki z pizzą:L:1295:81:1614:10:false:0:DEALLO PIZZA:false
 waypoint:Dostawy - odbiór zamówień:D:1507:81:1321:12:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Motor dostawczy:M:1514:81:1345:6:false:0:DEALLO PIZZA:false:0:LOCAL:false
 waypoint:Zatoka - Szlamowa:S:1984:81:1340:10:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:Wysypisko - sekretny składnik:W:1125:81:1502:10:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:Żar z grilla:G:1517:81:1322:6:false:0:DEALLO PIZZA:false:0:LOCAL:false
+waypoint:DOKNESUSHI - świetlik:S:1907:88:1318:3:false:0:DEALLO PIZZA:false:0:LOCAL:false

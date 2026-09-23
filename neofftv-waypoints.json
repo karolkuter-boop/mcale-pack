@@ -55,7 +55,7 @@
         "waypoint:Mieszkanie Dealla:W:1319:81:1531:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Mały lokal:P1:1511:81:1340:12:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Duża restauracja:P2:1825:81:1153:4:false:0:DEALLO PIZZA:false:0:LOCAL:false",
-        "waypoint:Wyposażenie i zatrudnianie:S:1412:81:1334:13:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Sklep składników:S:1412:81:1334:13:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Garaż - odbiór dostaw:G:1516:81:1435:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Dostawa - Serowa 1:D:1405:81:1224:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Dostawa - kamienica:D:1536:81:1238:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
@@ -65,6 +65,7 @@
         "waypoint:Roboty drogowe - objazdy:R:1671:81:1386:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Dostawa - Kanałowa 8:D:2032:81:1343:15:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:DOKNESUSHI:D:1904:81:1342:15:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Festiwal pizzy:F:1723:81:1189:15:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Mieszkanie - mikrofalówka:M:1300:87:1495:14:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Piecowa 6 - piętro 3:D3:1531:93:1219:11:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Baza dostawców:BD:1850:81:1131:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
@@ -74,7 +75,9 @@
         "waypoint:Zatoka - Szlamowa:S:1984:81:1340:10:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Wysypisko - sekretny składnik:W:1125:81:1502:10:false:0:DEALLO PIZZA:false:0:LOCAL:false",
         "waypoint:Żar z grilla:G:1517:81:1322:6:false:0:DEALLO PIZZA:false:0:LOCAL:false",
-        "waypoint:DOKNESUSHI - świetlik:S:1907:88:1318:3:false:0:DEALLO PIZZA:false:0:LOCAL:false"
+        "waypoint:DOKNESUSHI - świetlik:S:1907:88:1318:3:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Dron - ekspedycja dużej pizzerii:DR:1859:81:1147:4:false:0:DEALLO PIZZA:false:0:LOCAL:false",
+        "waypoint:Lucky - przed lokalem:?:1511:81:1345:14:false:0:DEALLO PIZZA:false:0:LOCAL:false"
       ]
     }
   ]

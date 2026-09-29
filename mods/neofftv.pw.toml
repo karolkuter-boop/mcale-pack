@@ -1,8 +1,8 @@
 name = "NeoFFTV"
-filename = "neofftv-1.42.64-hospital.97.jar"
+filename = "neofftv-1.42.64-hospital.98.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/9140c6f57f99428e231f149308abb4fd440acd53/mods/neofftv-1.42.64-hospital.97.jar"
+url = "PLACEHOLDER"
 hash-format = "sha256"
-hash = "758475508b8d85807d70f0d715a3801dee596bc6e602c914649a49a42a49433f"
+hash = "a4c0254690776cafd382ead9e43e6b375dd0d014f736485b575eb68a5eee07ed"

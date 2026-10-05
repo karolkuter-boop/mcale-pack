@@ -1,7 +1,8 @@
 param(
     [string]$MinecraftRoot = $PSScriptRoot,
     [string]$Manifest = (Join-Path $PSScriptRoot 'neofftv-waypoints.json'),
-    [string[]]$ServerFolders = @()
+    [string[]]$ServerFolders = @(),
+    [switch]$NoBackup
 )
 $ErrorActionPreference = 'Stop'
 $utf8 = New-Object Text.UTF8Encoding($false)
@@ -27,7 +28,7 @@ function Write-Changed([string]$Path, [string[]]$Lines) {
     if ((Test-Path -LiteralPath $Path) -and [IO.File]::ReadAllText($Path) -ceq $text) { return }
     $parent = Split-Path -Parent $Path
     [IO.Directory]::CreateDirectory($parent) | Out-Null
-    if (Test-Path -LiteralPath $Path) {
+    if (!$NoBackup -and (Test-Path -LiteralPath $Path)) {
         $relative = $Path.Substring($MinecraftRoot.Length).TrimStart('\','/')
         $backup = Join-Path $backupRoot $relative
         [IO.Directory]::CreateDirectory((Split-Path -Parent $backup)) | Out-Null
@@ -35,7 +36,7 @@ function Write-Changed([string]$Path, [string[]]$Lines) {
     }
     $temp = $Path + '.neofftv-tmp'
     [IO.File]::WriteAllText($temp, $text, $utf8)
-    if (Test-Path -LiteralPath $Path) { [IO.File]::Replace($temp,$Path,($Path+'.neofftv-old')); Remove-Item -LiteralPath ($Path+'.neofftv-old') }
+    if (Test-Path -LiteralPath $Path) { [IO.File]::Replace($temp,$Path,[NullString]::Value) }
     else { [IO.File]::Move($temp,$Path) }
     $script:changes++
 }
@@ -102,16 +103,24 @@ foreach ($server in $ServerFolders) {
         foreach ($file in $files) {
             if ($file.FullName -eq $target) { continue }
             if (($file.BaseName -split '_')[0] -ceq $data.worldId) {
-                $relative = $file.FullName.Substring($MinecraftRoot.Length).TrimStart('\','/')
-                $backup = Join-Path $backupRoot $relative
-                [IO.Directory]::CreateDirectory((Split-Path -Parent $backup)) | Out-Null
-                [IO.File]::Move($file.FullName, $backup)
+                if ($NoBackup) { Remove-Item -LiteralPath $file.FullName }
+                else {
+                    $relative = $file.FullName.Substring($MinecraftRoot.Length).TrimStart('\','/')
+                    $backup = Join-Path $backupRoot $relative
+                    [IO.Directory]::CreateDirectory((Split-Path -Parent $backup)) | Out-Null
+                    [IO.File]::Move($file.FullName, $backup)
+                }
                 $script:changes++
             }
         }
     }
-    $connection = 'connection:dim%0/'+$data.worldId+':dim%neofftv$pizza/'+$data.worldId
-    if ($config -cnotcontains $connection) { $config += $connection }
+    # Xaero stores dimension links in pairs. Keep personal links and add each
+    # managed dimension to the existing overworld hub.
+    $hub = [string]$data.worlds[0].folder+'/'+$data.worldId
+    foreach ($world in @($data.worlds | Select-Object -Skip 1)) {
+        $connection = 'connection:'+$hub+':'+$world.folder+'/'+$data.worldId
+        if ($config -cnotcontains $connection) { $config += $connection }
+    }
     Write-Changed $configPath @($config | Sort-Object -Unique)
 }
 if ($newMigrations.Count -gt 0) { Write-Changed $migrationPath @((ConvertTo-Json -InputObject @($newMigrations | Select-Object -Unique))) }

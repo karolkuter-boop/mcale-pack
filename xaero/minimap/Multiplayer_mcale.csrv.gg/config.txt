@@ -1,7 +1,9 @@
 connection:dim%0/mw-hospitals:dim%neofftv$pizza/mw-hospitals
+connection:dim%0/mw-hospitals:dim%neofftv$spider/mw-hospitals
 defaultMultiworldId:mw-hospitals
 dimensionType:minecraft$overworld:minecraft$overworld
 dimensionType:neofftv$pizza:minecraft$overworld
+dimensionType:neofftv$spider:minecraft$overworld
 ignoreServerLevelId:true
 teleportationEnabled:true
 usingMultiworldDetection:false

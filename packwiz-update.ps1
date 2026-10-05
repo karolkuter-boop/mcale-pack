@@ -1,4 +1,4 @@
-param([switch]$ResolveOnly)
+param([switch]$ResolveOnly, [switch]$NoBackup)
 $ErrorActionPreference = 'Stop'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $PackRepo = 'karolkuter-boop/mcale-pack'
@@ -60,7 +60,7 @@ try {
     } finally { Pop-Location }
     # Run only after Packwiz finishes: these files may just have been updated.
     # Xaero's own mutable files are merged, never overwritten with pack templates.
-    & (Join-Path $PSScriptRoot 'sync-waypoints.ps1') -MinecraftRoot $PSScriptRoot
+    & (Join-Path $PSScriptRoot 'sync-waypoints.ps1') -MinecraftRoot $PSScriptRoot -NoBackup:$NoBackup
     [IO.File]::WriteAllText((Join-Path $PSScriptRoot '.packwiz-last-success'),$ref+"`r`n")
     Write-Host '[NeoFFTV] Paczka aktualna. Uruchamiam Minecraft.'
     exit 0

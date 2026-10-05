@@ -1,0 +1,21 @@
+sets:PAJAK:gui.xaero_default
+# NeoFFTV managed set; personal sets are preserved.
+waypoint:01 Dom startowy:1:129:73:-4:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:02 Okno ucieczki:2:156:78:4:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:03 Podjazd transportu:3:155:73:24:6:false:0:PAJAK:true:0:LOCAL:false
+waypoint:04 Ogród i skoki:4:162:71:40:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:05 Kura i konewka:5:178:67:100:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:06 Skrót Skakuna:6:239:76:146:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:07 Most i pułapka:7:290:74:167:6:false:0:PAJAK:true:0:LOCAL:false
+waypoint:08 Kłaczek i osłona:8:322:74:178:6:false:0:PAJAK:true:0:LOCAL:false
+waypoint:09 Magazyn kolonii:9:331:75:190:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:10 Boczne przejście:A:323:75:208:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:11 Rygiel magazynu:B:340:75:210:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:12 Kolonia:C:340:75:218:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:13 Uszkodzony pomost:D:354:75:189:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:14 Schronienie pod mostem:E:312:69:176:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:15 Maszyna i palnik:F:363:75:207:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:16 Zasadzka mutantów:G:487:73:421:12:false:0:PAJAK:true:0:LOCAL:false
+waypoint:17 Polana ewolucji:H:607:81:518:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:18 Brama bastionu:I:682:86:499:12:false:0:PAJAK:true:0:LOCAL:false
+waypoint:19 Gniazdo bezpieczne:J:682:86:568:10:false:0:PAJAK:true:0:LOCAL:false

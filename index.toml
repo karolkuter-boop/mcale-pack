@@ -52,6 +52,16 @@ hash = "863574376a593eb922fd53e033e5ef812c78b852e3472e5e36372d49d4f5abc0"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "138087d2aa5c59d4c4034d16d43fa3813f1d73f0d57482aaf6ba92ed4bcdf6a4"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features.pw.toml"
+hash = "61328ae905a494f61b597864ab4a0c282390e07e44f99e03012df59c984f45ba"
+metafile = true
+
+[[files]]
 file = "mods/flashback-0-39-7-for-mc1-21-1.pw.toml"
 hash = "1c6ad71fa764b50694a5789c398aae2267cdf78d601249e5f7fe36567c88971e"
 metafile = true

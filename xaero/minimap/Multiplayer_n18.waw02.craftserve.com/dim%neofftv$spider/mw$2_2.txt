@@ -12,8 +12,8 @@ waypoint:09 Magazyn kolonii:9:340:75:190:4:false:0:PAJAK:true:0:LOCAL:false
 waypoint:10 Boczne przejście:A:323:75:208:4:false:0:PAJAK:true:0:LOCAL:false
 waypoint:11 Rygiel magazynu:B:340:75:210:4:false:0:PAJAK:true:0:LOCAL:false
 waypoint:12 Kolonia:C:340:75:218:4:false:0:PAJAK:true:0:LOCAL:false
-waypoint:13 Uszkodzony pomost:D:354:75:186:14:false:0:PAJAK:true:0:LOCAL:false
-waypoint:14 Schronienie pod mostem:E:312:69:176:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:13 Przeprawa kolonii:D:354:75:186:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:14 Schronienie za przeprawą:E:368:75:181:10:false:0:PAJAK:true:0:LOCAL:false
 waypoint:15 Maszyna i palnik:F:373:75:215:14:false:0:PAJAK:true:0:LOCAL:false
 waypoint:16 Zasadzka mutantów:G:487:73:421:12:false:0:PAJAK:true:0:LOCAL:false
 waypoint:17 Polana ewolucji:H:607:81:518:10:false:0:PAJAK:true:0:LOCAL:false

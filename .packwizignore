@@ -47,3 +47,5 @@ config/bbs/settings/*
 !shaderpacks/
 !mods/entity-model-features.pw.toml
 !mods/entity-texture-features.pw.toml
+!mods/superbwarfare.pw.toml
+!mods/kotlinforforge.pw.toml

@@ -77,6 +77,11 @@ hash = "a82c0b0b7619654fb55c4f84fbedc45f5fc471138113d9eb5cfeea9846fd99b2"
 metafile = true
 
 [[files]]
+file = "mods/kotlinforforge.pw.toml"
+hash = "4f4272ab8d6141e13c7a67cbeaade695a8fb42769eb5d5ce0b5113500cc83f3e"
+metafile = true
+
+[[files]]
 file = "mods/neofftv.pw.toml"
 hash = "b35d9af869013be5e9d8b34b8c43944dd330099f2a7f7f1a41fed4a385c4f582"
 metafile = true
@@ -89,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
 hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+metafile = true
+
+[[files]]
+file = "mods/superbwarfare.pw.toml"
+hash = "f80a9509659531c9b3ab726e2dc9024f9e18473d92d8935f7a4b267feb034f20"
 metafile = true
 
 [[files]]

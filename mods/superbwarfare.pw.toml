@@ -1,0 +1,8 @@
+name = "superbwarfare"
+filename = "superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar"
+side = "both"
+
+[download]
+url = "https://cursemaven.com/curse/maven/superb-warfare-1218165/9019824/superb-warfare-1218165-9019824.jar"
+hash-format = "sha256"
+hash = "c06b4da8258adbc7d623c5c8e36ffc642c28831ddf6c9aa9c05c10dd18997490"

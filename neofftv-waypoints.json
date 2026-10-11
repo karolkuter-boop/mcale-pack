@@ -93,7 +93,7 @@
         "waypoint:06 Skrót Skakuna:6:239:76:146:10:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:07 Most i pułapka:7:290:74:167:6:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:08 Kłaczek:8:322:74:178:6:false:0:PAJAK:true:0:LOCAL:false",
-        "waypoint:09 Magazyn kolonii:9:340:75:190:4:false:0:PAJAK:true:0:LOCAL:false",
+        "waypoint:09 Magazyn kolonii:9:332:75:190:4:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:10 Boczne przejście:A:323:75:208:4:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:11 Rygiel magazynu:B:340:75:210:4:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:12 Kolonia:C:340:75:218:4:false:0:PAJAK:true:0:LOCAL:false",
@@ -106,6 +106,22 @@
         "waypoint:19 Dowództwo łowców:J:682:86:563:10:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:20 Palnik · boczna scena:P:604:74:438:6:false:0:PAJAK:true:0:LOCAL:false",
         "waypoint:21 Ogryzek · wychodek:O:444:66:331:2:false:0:PAJAK:true:0:LOCAL:false"
+      ]
+    },
+    {
+      "folder": "dim%neofftv$zakladam_wszystko",
+      "dimension": "neofftv:zakladam_wszystko",
+      "set": "ZAKLADAM",
+      "rows": [
+        "waypoint:Łąka ze stacjami:Ł:3022:65:3059:10:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Zbrojownia Żelaznego:Z:3058:65:3024:11:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Dom i ogródek Żelaznego:D:2980:65:3040:6:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Las brzozowy:B:2962:65:3044:2:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Jezioro:J:2996:65:3074:9:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Pastwisko Chrumknesa:P:3050:65:3070:13:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Wioska:W:2896:64:3008:14:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Wieża pillagerów:X:3232:64:3120:12:false:0:ZAKLADAM:true:0:LOCAL:false",
+        "waypoint:Ancient City:A:1952:-51:2368:8:false:0:ZAKLADAM:true:0:LOCAL:false"
       ]
     }
   ]

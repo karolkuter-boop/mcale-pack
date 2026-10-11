@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$MinecraftRoot = $PSScriptRoot,
     [string]$Manifest = (Join-Path $PSScriptRoot 'neofftv-waypoints.json'),
     [string[]]$ServerFolders = @(),
@@ -55,7 +55,7 @@ foreach ($server in $ServerFolders) {
     $config = @($config | Where-Object { !$settings.Contains(($_ -split ':',2)[0]) })
     foreach ($key in $settings.Keys) { $config += $key+':'+$settings[$key] }
     foreach ($world in $data.worlds) {
-        if ($world.folder -notmatch '^dim%[a-zA-Z0-9%$-]+$') { throw 'Invalid dimension folder' }
+        if ($world.folder -notmatch '^dim%[a-zA-Z0-9_%$-]+$') { throw 'Invalid dimension folder' }
         $type = 'dimensionType:'+($world.dimension -replace ':','$')+':minecraft$overworld'
         if (!($config | Where-Object { $_.StartsWith('dimensionType:'+($world.dimension -replace ':','$')+':') })) { $config += $type }
         $folder = Join-Path $root $world.folder

@@ -49,3 +49,5 @@ config/bbs/settings/*
 !mods/entity-texture-features.pw.toml
 !mods/superbwarfare.pw.toml
 !mods/kotlinforforge.pw.toml
+
+!mods/replay-compat.pw.toml

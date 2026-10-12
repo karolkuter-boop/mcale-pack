@@ -1,0 +1,8 @@
+name = "NeoFFTV Replay Compatibility"
+filename = "fftv-replay-compat-1.0.1.jar"
+side = "client"
+
+[download]
+url = "PLACEHOLDER"
+hash-format = "sha256"
+hash = "8bac99078023c70d26ee0570f448396de753f9608ddd100db27947a25cf7ca03"

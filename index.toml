@@ -92,6 +92,11 @@ hash = "02da51efd14bf4526af2263490f46606381e2081f1893f4ddf307a9c5c7c1983"
 metafile = true
 
 [[files]]
+file = "mods/replay-compat.pw.toml"
+hash = "e78cac6463cce9e5fc57c46b31fb398063bf6c9a3e36dccd46045e7ed370103b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-neoforge-0-8-13-beta-2-mc1-21-1.pw.toml"
 hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
 metafile = true

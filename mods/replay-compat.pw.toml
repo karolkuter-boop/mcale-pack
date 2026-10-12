@@ -3,6 +3,6 @@ filename = "fftv-replay-compat-1.0.2.jar"
 side = "client"
 
 [download]
-url = "PLACEHOLDER"
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/0cb7a87fa4b1eb944c256ab418859426dc7e2315/mods/fftv-replay-compat-1.0.2.jar"
 hash-format = "sha256"
 hash = "d38ad0937830ce2ca06d3c3d3f9272816599cb13a1511c49bad3bc98f2453101"

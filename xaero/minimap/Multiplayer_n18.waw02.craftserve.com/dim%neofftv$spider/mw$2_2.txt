@@ -8,16 +8,16 @@ waypoint:05 Kurczak i doniczka:5:171:67:100:14:false:0:PAJAK:true:0:LOCAL:false
 waypoint:06 Skrót Skakuna:6:239:76:146:10:false:0:PAJAK:true:0:LOCAL:false
 waypoint:07 Most i pułapka:7:290:74:167:6:false:0:PAJAK:true:0:LOCAL:false
 waypoint:08 Kłaczek:8:322:74:178:6:false:0:PAJAK:true:0:LOCAL:false
-waypoint:09 Magazyn kolonii:9:332:75:190:4:false:0:PAJAK:true:0:LOCAL:false
-waypoint:10 Boczne przejście:A:323:75:208:4:false:0:PAJAK:true:0:LOCAL:false
-waypoint:11 Rygiel magazynu:B:340:75:210:4:false:0:PAJAK:true:0:LOCAL:false
-waypoint:12 Kolonia:C:340:75:218:4:false:0:PAJAK:true:0:LOCAL:false
-waypoint:13 Proca nad rzeczką:D:343:67:240:14:false:0:PAJAK:true:0:LOCAL:false
-waypoint:14 Schronienie kolonii:E:355:66:278:10:false:0:PAJAK:true:0:LOCAL:false
-waypoint:15 Gospodarstwo:F:520:65:285:14:false:0:PAJAK:true:0:LOCAL:false
-waypoint:17 Osada tkaczy:G:560:71:423:12:false:0:PAJAK:true:0:LOCAL:false
-waypoint:18 Polana ewolucji:H:613:81:518:10:false:0:PAJAK:true:0:LOCAL:false
-waypoint:19 Brama bastionu:I:682:86:499:12:false:0:PAJAK:true:0:LOCAL:false
-waypoint:20 Dowództwo łowców:J:682:86:563:10:false:0:PAJAK:true:0:LOCAL:false
-waypoint:21 Palnik · boczna scena:P:604:74:438:6:false:0:PAJAK:true:0:LOCAL:false
-waypoint:16 Ogryzek · wychodek:O:444:66:331:2:false:0:PAJAK:true:0:LOCAL:false
+waypoint:09 Palnik · pajęczyny:9:289:94:235:6:false:0:PAJAK:true:0:LOCAL:false
+waypoint:10 Magazyn kolonii:A:332:75:190:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:11 Boczne przejście:B:323:75:208:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:12 Rygiel magazynu:C:340:75:210:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:13 Kolonia:D:340:75:218:4:false:0:PAJAK:true:0:LOCAL:false
+waypoint:14 Proca nad rzeczką:E:343:67:240:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:15 Schronienie kolonii:F:355:66:278:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:16 Gospodarstwo:G:520:65:285:14:false:0:PAJAK:true:0:LOCAL:false
+waypoint:17 Ogryzek · wychodek:H:444:66:331:2:false:0:PAJAK:true:0:LOCAL:false
+waypoint:18 Osada tkaczy:I:560:71:423:12:false:0:PAJAK:true:0:LOCAL:false
+waypoint:19 Polana ewolucji:J:613:81:518:10:false:0:PAJAK:true:0:LOCAL:false
+waypoint:20 Brama bastionu:K:682:86:499:12:false:0:PAJAK:true:0:LOCAL:false
+waypoint:21 Dowództwo łowców:L:682:86:563:10:false:0:PAJAK:true:0:LOCAL:false

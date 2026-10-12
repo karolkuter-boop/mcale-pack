@@ -1,8 +1,8 @@
 name = "NeoFFTV Replay Compatibility"
-filename = "fftv-replay-compat-1.0.1.jar"
+filename = "fftv-replay-compat-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/f3817bff1b2a519ddbb1e0a4ff978b1ec449f9a3/mods/fftv-replay-compat-1.0.1.jar"
+url = "PLACEHOLDER"
 hash-format = "sha256"
-hash = "8bac99078023c70d26ee0570f448396de753f9608ddd100db27947a25cf7ca03"
+hash = "d38ad0937830ce2ca06d3c3d3f9272816599cb13a1511c49bad3bc98f2453101"

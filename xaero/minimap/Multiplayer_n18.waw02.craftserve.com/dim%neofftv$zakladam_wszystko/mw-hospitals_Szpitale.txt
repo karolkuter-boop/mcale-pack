@@ -2,10 +2,13 @@ sets:ZAKLADAM:gui.xaero_default
 # NeoFFTV managed set; personal sets are preserved.
 waypoint:Łąka ze stacjami:Ł:3022:65:3059:10:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Zbrojownia Żelaznego:Z:3058:65:3024:11:false:0:ZAKLADAM:true:0:LOCAL:false
-waypoint:Dom i ogródek Żelaznego:D:2980:65:3040:6:false:0:ZAKLADAM:true:0:LOCAL:false
-waypoint:Las brzozowy:B:2962:65:3044:2:false:0:ZAKLADAM:true:0:LOCAL:false
-waypoint:Jezioro:J:2996:65:3074:9:false:0:ZAKLADAM:true:0:LOCAL:false
-waypoint:Pastwisko Chrumknesa:P:3050:65:3070:13:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Dom i ogródek Żelaznego:D:2940:65:3120:6:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Las brzozowy:B:2942:65:3068:2:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Jezioro:J:2976:65:3174:9:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Pastwisko Chrumknesa:P:3138:65:3100:13:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Wioska:W:2910:71:2985:14:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Wieża pillagerów:X:3248:72:3127:12:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Ancient City:A:1952:-51:2368:8:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Arena smoka:S:3098:65:3160:12:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Pas startowy i tor jazdy:T:3050:65:3130:7:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Farma XP:E:3128:65:3020:10:false:0:ZAKLADAM:true:0:LOCAL:false

@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "2d20428397d1f6ae30444383e7c39c9ae34908273a9b57700d1a7048f26eb915"
+hash = "95704463d581c2e2503c912c376309da2a55d204e8576921a2fda7f766489db1"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-compat.pw.toml"
-hash = "2b0839c3fc3734af51eddd31c680ad791787f6f0f12b245318dfa589c499f886"
+hash = "3ef21ba0a9912a9b5a56cfeace7cb947238fd574fb67e09e42d2605979fbc705"
 metafile = true
 
 [[files]]

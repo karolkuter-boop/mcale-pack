@@ -1,0 +1,8 @@
+name = "NeoFFTV Replay Compat"
+filename = "neofftv-replay-compat-1.0.4.jar"
+side = "client"
+
+[download]
+url = "PLACEHOLDER"
+hash-format = "sha256"
+hash = "26a8ddee9094a211dd5134e4b04c738b91448b45e6571798ec21e9abc8ec324c"

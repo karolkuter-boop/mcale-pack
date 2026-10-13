@@ -7,7 +7,7 @@ waypoint:Las brzozowy:B:2942:65:3068:2:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Jezioro:J:2976:65:3174:9:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Pastwisko Chrumknesa:P:3138:65:3100:13:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Wioska:W:2910:71:2985:14:false:0:ZAKLADAM:true:0:LOCAL:false
-waypoint:Wieża pillagerów:X:3248:72:3127:12:false:0:ZAKLADAM:true:0:LOCAL:false
+waypoint:Wieża pillagerów:X:3270:77:3156:12:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Ancient City:A:1952:-51:2368:8:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Arena smoka:S:3098:65:3160:12:false:0:ZAKLADAM:true:0:LOCAL:false
 waypoint:Pas startowy i tor jazdy:T:3050:65:3130:7:false:0:ZAKLADAM:true:0:LOCAL:false

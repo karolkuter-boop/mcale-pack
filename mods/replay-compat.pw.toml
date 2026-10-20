@@ -3,6 +3,6 @@ filename = "neofftv-replay-compat-1.0.35.jar"
 side = "client"
 
 [download]
-url = "PLACEHOLDER"
+url = "https://raw.githubusercontent.com/karolkuter-boop/mcale-pack/26b24447a3ff50eb3f150990fbeee7a056466db7/mods/neofftv-replay-compat-1.0.35.jar"
 hash-format = "sha256"
 hash = "cfee95b60ca4e9c6eed9911e47a22e8f8e875d7c0541452bfc333cb7cda77586"

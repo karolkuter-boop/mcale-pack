@@ -1,12 +1,12 @@
 name = "NeoFFTV Szpital"
 author = "FFTV"
-version = "1.42.64-hospital.219"
+version = "1.42.64-hospital.220"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3dff558f1ce1ab96376474c62f75e4f32378d5944c7f14298f1e0f91b9b57497"
+hash = "17317bfa764111366922e7fa59fc3e6702e2fd2425e313f40bcd6bb4a0549ae3"
 
 [versions]
 minecraft = "1.21.1"

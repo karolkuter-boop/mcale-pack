@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-3.0.35-mc-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/wudTG1nk/physics-mod-3.0.35-mc-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "230aa7bc8c9860c4fe57dd2aabfdc468fea6ccee416f1097223bed2c5f50e2d4371b123fdf885baeef7812dc7bed670044f8cfe7c5167b54764c80570de30d3e"
+
+[update]
+[update.modrinth]
+mod-id = "Xy8aRQKS"
+version = "wudTG1nk"

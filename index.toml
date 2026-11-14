@@ -92,6 +92,11 @@ hash = "02da51efd14bf4526af2263490f46606381e2081f1893f4ddf307a9c5c7c1983"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "a6fe21cfa79e6f14af52cd10c9d6516036f7cdb29154f2fdb63dd12c10fbf376"
+metafile = true
+
+[[files]]
 file = "mods/replay-compat.pw.toml"
 hash = "fb1778d5848e54e7b775adea10c193ed02a27b2d6b6c0daa94facbed038c1fb6"
 metafile = true

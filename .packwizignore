@@ -51,3 +51,4 @@ config/bbs/settings/*
 !mods/kotlinforforge.pw.toml
 
 !mods/replay-compat.pw.toml
+!mods/physicsmod.pw.toml

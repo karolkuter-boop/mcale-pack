@@ -1,0 +1,20 @@
+sets:MOBY:gui.xaero_default
+# NeoFFTV managed set; personal sets are preserved.
+waypoint:Pośredniak (koło):K:0:81:-9:10:false:0:MOBY:true:0:LOCAL:false
+waypoint:Lama · straż:L:1:81:-99:12:false:0:MOBY:true:0:LOCAL:false
+waypoint:Pająk · baza reklam:P:72:81:54:8:false:0:MOBY:true:0:LOCAL:false
+waypoint:Pająk · sklep:P:15:81:36:8:false:0:MOBY:true:0:LOCAL:false
+waypoint:Lis · ferma:F:-173:81:3:6:false:0:MOBY:true:0:LOCAL:false
+waypoint:Lis · kurnik:F:-232:81:-22:6:false:0:MOBY:true:0:LOCAL:false
+waypoint:Lis · skarbiec:F:-231:71:22:6:false:0:MOBY:true:0:LOCAL:false
+waypoint:Rybik · warsztat:R:-123:81:-23:7:false:0:MOBY:true:0:LOCAL:false
+waypoint:Golem · komenda:G:59:81:-22:9:false:0:MOBY:true:0:LOCAL:false
+waypoint:Golem · plac wioski:G:190:81:5:9:false:0:MOBY:true:0:LOCAL:false
+waypoint:Lądowisko heli:H:88:81:-28:9:false:0:MOBY:true:0:LOCAL:false
+waypoint:Evoker · brama:E:87:81:-175:13:false:0:MOBY:true:0:LOCAL:false
+waypoint:Evoker · klasa:E:86:86:-108:13:false:0:MOBY:true:0:LOCAL:false
+waypoint:Evoker · balkon:E:87:86:-120:13:false:0:MOBY:true:0:LOCAL:false
+waypoint:Taxi · centrum:T:24:81:2:14:false:0:MOBY:true:0:LOCAL:false
+waypoint:Taxi · komenda:T:60:81:-5:14:false:0:MOBY:true:0:LOCAL:false
+waypoint:Taxi · wioska:T:112:81:3:14:false:0:MOBY:true:0:LOCAL:false
+waypoint:Taxi · farma:T:-143:81:3:14:false:0:MOBY:true:0:LOCAL:false

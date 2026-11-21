@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "neofftv-waypoints.json"
-hash = "50197bbc873e1ad04e6b51805ed6bd016f1d98027d672b5e992a5f441e753cc6"
+hash = "018ef166dc571c0e7ddf3e8e6566879c501e52edf815eb0ec8a4d83c4312d9a6"
 
 [[files]]
 file = "options.txt"
@@ -173,7 +173,7 @@ hash = "15e5ddfeb7eb7e0e8f471efc4b79f7da25812089f7ec8e9100da431f8ae29119"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/config.txt"
-hash = "18277de8dcd298d8d2d1bbe8c5e74e151849b1f5032f9fc1e478e07ce01bd835"
+hash = "7e61d210b602f5239fc8ec2a683bca412f008a76c473606bb5eb8bfbe03356be"
 preserve = true
 
 [[files]]
@@ -192,6 +192,26 @@ hash = "3988b67a6d0ee619068e19b0d258bc8a5951e98d8315cd0ffa097b58cd2368d8"
 preserve = true
 
 [[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$farma/mw$2_2.txt"
+hash = "976a36d4bff35d94fc04c5da3640a8185849dd57c47828a52c0c18d44800b54c"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$farma/mw-hospitals_Szpitale.txt"
+hash = "976a36d4bff35d94fc04c5da3640a8185849dd57c47828a52c0c18d44800b54c"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$moby/mw$2_2.txt"
+hash = "9210484b1028a243244bba1acee0de5779e412ad58b0cdee3ed81619586bb53f"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$moby/mw-hospitals_Szpitale.txt"
+hash = "9210484b1028a243244bba1acee0de5779e412ad58b0cdee3ed81619586bb53f"
+preserve = true
+
+[[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$pizza/mw$2_2.txt"
 hash = "002456d5db97fc945e442c6ff077024f195047b314f00cd0462fa066a8ccb072"
 preserve = true
@@ -199,6 +219,16 @@ preserve = true
 [[files]]
 file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$pizza/mw-hospitals_Szpitale.txt"
 hash = "002456d5db97fc945e442c6ff077024f195047b314f00cd0462fa066a8ccb072"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$slady_potworow/mw$2_2.txt"
+hash = "c4644272fa7722772da7244eaea02b3c7c6fed9ca7c17becab243faeef269c7b"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_mcale.csrv.gg/dim%neofftv$slady_potworow/mw-hospitals_Szpitale.txt"
+hash = "c4644272fa7722772da7244eaea02b3c7c6fed9ca7c17becab243faeef269c7b"
 preserve = true
 
 [[files]]
@@ -223,7 +253,7 @@ preserve = true
 
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/config.txt"
-hash = "18277de8dcd298d8d2d1bbe8c5e74e151849b1f5032f9fc1e478e07ce01bd835"
+hash = "7e61d210b602f5239fc8ec2a683bca412f008a76c473606bb5eb8bfbe03356be"
 preserve = true
 
 [[files]]
@@ -237,6 +267,26 @@ hash = "8da6a60e88671f261d8eb1b3a017f5f692be6cc4c531ffcbc201631efdcb5ac2"
 preserve = true
 
 [[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$farma/mw$2_2.txt"
+hash = "976a36d4bff35d94fc04c5da3640a8185849dd57c47828a52c0c18d44800b54c"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$farma/mw-hospitals_Szpitale.txt"
+hash = "976a36d4bff35d94fc04c5da3640a8185849dd57c47828a52c0c18d44800b54c"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$moby/mw$2_2.txt"
+hash = "9210484b1028a243244bba1acee0de5779e412ad58b0cdee3ed81619586bb53f"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$moby/mw-hospitals_Szpitale.txt"
+hash = "9210484b1028a243244bba1acee0de5779e412ad58b0cdee3ed81619586bb53f"
+preserve = true
+
+[[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$pizza/mw$2_2.txt"
 hash = "002456d5db97fc945e442c6ff077024f195047b314f00cd0462fa066a8ccb072"
 preserve = true
@@ -244,6 +294,16 @@ preserve = true
 [[files]]
 file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$pizza/mw-hospitals_Szpitale.txt"
 hash = "002456d5db97fc945e442c6ff077024f195047b314f00cd0462fa066a8ccb072"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$slady_potworow/mw$2_2.txt"
+hash = "c4644272fa7722772da7244eaea02b3c7c6fed9ca7c17becab243faeef269c7b"
+preserve = true
+
+[[files]]
+file = "xaero/minimap/Multiplayer_n18.waw02.craftserve.com/dim%neofftv$slady_potworow/mw-hospitals_Szpitale.txt"
+hash = "c4644272fa7722772da7244eaea02b3c7c6fed9ca7c17becab243faeef269c7b"
 preserve = true
 
 [[files]]

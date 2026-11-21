@@ -1,0 +1,10 @@
+sets:FARMA:gui.xaero_default
+# NeoFFTV managed set; personal sets are preserved.
+waypoint:Plac i tron:P:0:81:8:14:false:0:FARMA:true:0:LOCAL:false
+waypoint:Farma Dealera:D:-43:81:0:10:false:0:FARMA:true:0:LOCAL:false
+waypoint:Gospodarstwo Doknesa:K:42:81:0:9:false:0:FARMA:true:0:LOCAL:false
+waypoint:Obora Doknesa:O:59:81:4:6:false:0:FARMA:true:0:LOCAL:false
+waypoint:Stragan i skup:S:0:81:16:13:false:0:FARMA:true:0:LOCAL:false
+waypoint:Bazarek:B:-23:81:23:5:false:0:FARMA:true:0:LOCAL:false
+waypoint:Laboratorium:L:0:81:-59:11:false:0:FARMA:true:0:LOCAL:false
+waypoint:Lotnisko:H:44:81:-89:12:false:0:FARMA:true:0:LOCAL:false

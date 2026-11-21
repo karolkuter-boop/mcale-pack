@@ -126,6 +126,82 @@
         "waypoint:Pas startowy i tor jazdy:T:3050:65:3130:7:false:0:ZAKLADAM:true:0:LOCAL:false",
         "waypoint:Farma XP:E:3128:65:3020:10:false:0:ZAKLADAM:true:0:LOCAL:false"
       ]
+    },
+    {
+      "folder": "dim%neofftv$farma",
+      "dimension": "neofftv:farma",
+      "set": "FARMA",
+      "rows": [
+        "waypoint:Plac i tron:P:0:81:8:14:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Farma Dealera:D:-43:81:0:10:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Gospodarstwo Doknesa:K:42:81:0:9:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Obora Doknesa:O:59:81:4:6:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Stragan i skup:S:0:81:16:13:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Bazarek:B:-23:81:23:5:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Laboratorium:L:0:81:-59:11:false:0:FARMA:true:0:LOCAL:false",
+        "waypoint:Lotnisko:H:44:81:-89:12:false:0:FARMA:true:0:LOCAL:false"
+      ]
+    },
+    {
+      "folder": "dim%neofftv$moby",
+      "dimension": "neofftv:moby",
+      "set": "MOBY",
+      "rows": [
+        "waypoint:Pośredniak (koło):K:0:81:-9:10:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Lama · straż:L:1:81:-99:12:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Pająk · baza reklam:P:72:81:54:8:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Pająk · sklep:P:15:81:36:8:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Lis · ferma:F:-173:81:3:6:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Lis · kurnik:F:-232:81:-22:6:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Lis · skarbiec:F:-231:71:22:6:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Rybik · warsztat:R:-123:81:-23:7:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Golem · komenda:G:59:81:-22:9:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Golem · plac wioski:G:190:81:5:9:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Lądowisko heli:H:88:81:-28:9:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Evoker · brama:E:87:81:-175:13:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Evoker · klasa:E:86:86:-108:13:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Evoker · balkon:E:87:86:-120:13:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Taxi · centrum:T:24:81:2:14:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Taxi · komenda:T:60:81:-5:14:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Taxi · wioska:T:112:81:3:14:false:0:MOBY:true:0:LOCAL:false",
+        "waypoint:Taxi · farma:T:-143:81:3:14:false:0:MOBY:true:0:LOCAL:false"
+      ]
+    },
+    {
+      "folder": "dim%neofftv$slady_potworow",
+      "dimension": "neofftv:slady_potworow",
+      "set": "SLADY",
+      "rows": [
+        "waypoint:Baza i tablica:B:4096:79:5:10:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:Galeria zdjęć:G:4096:79:-2:10:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R1 Pazury na drzewie:1:4033:80:-24:2:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R1 Obóz:1:3978:79:-42:2:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R1 Odcisk w błocie:1:3958:75:-65:2:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R1 Nora wilkołaka:1:3901:81:-115:2:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Odcisk dłoni:2:3909:83:-145:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Rozbita łódka:2:3854:67:-122:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Pomost:2:3847:61:-104:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Hangar łodzi:2:3864:64:-90:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Nadgryziony wrak:2:3774:27:-122:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R2 Legowisko Dłoni:2:3701:23:-150:9:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R3 Odcisk Widma:3:4037:112:-276:12:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R3 Zagroda:3:4066:111:-244:12:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R3 Krąg odcisków:3:3990:89:-256:12:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R3 Polana Widma:3:3986:90:-238:12:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R3 Dzban:3:3989:98:-213:12:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Odcisk buta:4:4176:81:-200:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Odcisk w dolinie:4:4256:78:-220:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Domek w zagrodzie:4:4228:79:-177:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Miód na drodze:4:4294:78:-219:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Przynęta:4:4291:80:-176:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R4 Stanowisko:4:4287:80:-178:6:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R5 Odcisk golema:5:4328:96:101:14:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R5 Głazy:5:4421:77:96:14:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R5 Winda na linie:5:4376:72:42:14:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R5 Chata z procą:5:4364:244:14:14:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:R5 Pomost:5:4380:245:37:14:false:0:SLADY:true:0:LOCAL:false",
+        "waypoint:Finał:F:4089:75:157:4:false:0:SLADY:true:0:LOCAL:false"
+      ]
     }
   ]
 }

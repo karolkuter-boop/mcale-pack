@@ -1,0 +1,31 @@
+sets:SLADY:gui.xaero_default
+# NeoFFTV managed set; personal sets are preserved.
+waypoint:Baza i tablica:B:4096:79:5:10:false:0:SLADY:true:0:LOCAL:false
+waypoint:Galeria zdjęć:G:4096:79:-2:10:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Pazury na drzewie:1:4033:80:-24:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Obóz:1:3978:79:-42:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Odcisk w błocie:1:3958:75:-65:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Nora wilkołaka:1:3901:81:-115:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Odcisk dłoni:2:3909:83:-145:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Rozbita łódka:2:3854:67:-122:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Pomost:2:3847:61:-104:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Hangar łodzi:2:3864:64:-90:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Nadgryziony wrak:2:3774:27:-122:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Legowisko Dłoni:2:3701:23:-150:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R3 Odcisk Widma:3:4037:112:-276:12:false:0:SLADY:true:0:LOCAL:false
+waypoint:R3 Zagroda:3:4066:111:-244:12:false:0:SLADY:true:0:LOCAL:false
+waypoint:R3 Krąg odcisków:3:3990:89:-256:12:false:0:SLADY:true:0:LOCAL:false
+waypoint:R3 Polana Widma:3:3986:90:-238:12:false:0:SLADY:true:0:LOCAL:false
+waypoint:R3 Dzban:3:3989:98:-213:12:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Odcisk buta:4:4176:81:-200:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Odcisk w dolinie:4:4256:78:-220:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Domek w zagrodzie:4:4228:79:-177:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Miód na drodze:4:4294:78:-219:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Przynęta:4:4291:80:-176:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R4 Stanowisko:4:4287:80:-178:6:false:0:SLADY:true:0:LOCAL:false
+waypoint:R5 Odcisk golema:5:4328:96:101:14:false:0:SLADY:true:0:LOCAL:false
+waypoint:R5 Głazy:5:4421:77:96:14:false:0:SLADY:true:0:LOCAL:false
+waypoint:R5 Winda na linie:5:4376:72:42:14:false:0:SLADY:true:0:LOCAL:false
+waypoint:R5 Chata z procą:5:4364:244:14:14:false:0:SLADY:true:0:LOCAL:false
+waypoint:R5 Pomost:5:4380:245:37:14:false:0:SLADY:true:0:LOCAL:false
+waypoint:Finał:F:4089:75:157:4:false:0:SLADY:true:0:LOCAL:false

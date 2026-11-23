@@ -1,17 +1,18 @@
 sets:SLADY:gui.xaero_default
 # NeoFFTV managed set; personal sets are preserved.
-waypoint:Baza i tablica:B:4096:79:5:10:false:0:SLADY:true:0:LOCAL:false
-waypoint:Galeria zdjęć:G:4096:79:-2:10:false:0:SLADY:true:0:LOCAL:false
-waypoint:R1 Pazury na drzewie:1:4033:80:-24:2:false:0:SLADY:true:0:LOCAL:false
-waypoint:R1 Obóz:1:3978:79:-42:2:false:0:SLADY:true:0:LOCAL:false
-waypoint:R1 Odcisk w błocie:1:3958:75:-65:2:false:0:SLADY:true:0:LOCAL:false
-waypoint:R1 Nora wilkołaka:1:3901:81:-115:2:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Odcisk dłoni:2:3909:83:-145:9:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Rozbita łódka:2:3854:67:-122:9:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Pomost:2:3847:61:-104:9:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Hangar łodzi:2:3864:64:-90:9:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Nadgryziony wrak:2:3774:27:-122:9:false:0:SLADY:true:0:LOCAL:false
-waypoint:R2 Legowisko Dłoni:2:3701:23:-150:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:Baza · redakcja Kuriera:B:4096:79:5:10:false:0:SLADY:true:0:LOCAL:false
+waypoint:Redakcja · tablica dowodów:G:4096:79:-2:10:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Odcisk dłoni · otwarcie:1:3909:83:-145:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Rozbita łódka:1:3854:67:-122:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Pomost:1:3847:61:-104:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Hangar łodzi:1:3864:64:-90:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Nadgryziony wrak:1:3774:27:-122:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R1 Legowisko Dłoni:1:3701:23:-150:9:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Odcisk łapy:2:4057:72:15:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Pazury na drzewie:2:4033:80:-24:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Obóz:2:3978:79:-42:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Odcisk w błocie:2:3958:75:-65:2:false:0:SLADY:true:0:LOCAL:false
+waypoint:R2 Nora wilkołaka:2:3901:81:-115:2:false:0:SLADY:true:0:LOCAL:false
 waypoint:R3 Odcisk Widma:3:4037:112:-276:12:false:0:SLADY:true:0:LOCAL:false
 waypoint:R3 Zagroda:3:4066:111:-244:12:false:0:SLADY:true:0:LOCAL:false
 waypoint:R3 Krąg odcisków:3:3990:89:-256:12:false:0:SLADY:true:0:LOCAL:false

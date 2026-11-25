@@ -1,8 +1,8 @@
 name = "NeoFFTV"
-filename = "neofftv-1.42.64-hospital.296.jar"
+filename = "neofftv-1.42.64-hospital.297.jar"
 side = "both"
 
 [download]
-url = "https://github.com/karolkuter-boop/mcale-pack/releases/download/hospital-296-assets/neofftv-1.42.64-hospital.296.jar"
+url = "https://github.com/karolkuter-boop/mcale-pack/releases/download/hospital-297-assets/neofftv-1.42.64-hospital.297.jar"
 hash-format = "sha256"
-hash = "b6b322024175c3fc924ce02dc0e71b3dec34df14ef54e710cbd511ca54526b7f"
+hash = "f974bacbfa2362aa601a48b5316c52776fe8c9aceef886c7a376d9ad0017eaa1"

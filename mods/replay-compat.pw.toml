@@ -1,8 +1,8 @@
 name = "NeoFFTV Replay Compat"
-filename = "neofftv-replay-compat-1.0.136.jar"
+filename = "neofftv-replay-compat-1.0.137.jar"
 side = "client"
 
 [download]
-url = "https://github.com/karolkuter-boop/mcale-pack/releases/download/hospital-303-assets/neofftv-replay-compat-1.0.136.jar"
+url = "https://github.com/karolkuter-boop/mcale-pack/releases/download/hospital-304-assets/neofftv-replay-compat-1.0.137.jar"
 hash-format = "sha256"
-hash = "75035df2c8867bb773f4d35d844cf2c8a17cde132f9e91e0e8cd76ff56820b6d"
+hash = "a3ab9bcff4839a396aa6761e9dc3daf8f8dad1b6cac7a1f3eafba2529f856422"
